@@ -1,0 +1,30 @@
+# Jekyll Configuration
+safe: false
+source: .
+destination: _site
+lsi: false
+markdown: rdiscount
+baseurl: http://hspencer.github.io/mf-m
+author: Herbert Spencer
+pygments: true
+permalink: pretty
+
+exclude: ['node_modules', 'bower_components']
+
+# Aliases
+bootstrap: bower_components/bootstrap/dist
+jquery: bower_components/jquery
+font-awesome: bower_components/font-awesome
+
+# Project Settings
+mf: 
+    version: "1.0.0"
+    license: The Artistic License 2.0
+    author:
+        name: Herbert Spencer
+        email: hspencer@ead.cl
+        twitter: hspencer
+    github:
+        url: https://hspencer.com/mf-m.git
+        project: MediaFranca
+        org: none
