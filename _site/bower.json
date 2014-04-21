@@ -1,7 +1,7 @@
 {
   "name": "mediafranca",
   "version": "0.0.1",
-  "homepage": "http://www.citisent.com",
+  "homepage": "http://www.mediafranca.cl",
   "authors": [
     "hspencer@ead.cl",
     "roromt@gmail.com"
@@ -18,7 +18,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.0.2",
+    "bootstrap": "~3.1.1",
     "font-awesome": "~4.0.3"
   }
 }
