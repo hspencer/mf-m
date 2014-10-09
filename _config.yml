@@ -1,15 +1,14 @@
 # Jekyll Configuration
 safe: false
 source: .
-destination: _site
+destination: _gh-pages
 lsi: false
 markdown: rdiscount
 baseurl: http://hspencer.github.io/mf-m
 author: Herbert Spencer
 pygments: true
 permalink: pretty
-
-exclude: ['node_modules', 'bower_components']
+exclude: ['node_modules', 'bower_components', 'less']
 
 # Aliases
 bootstrap: bower_components/bootstrap/dist
@@ -18,7 +17,7 @@ font-awesome: bower_components/font-awesome
 
 # Project Settings
 mf: 
-    version: "1.0.0"
+    version: "0.1.0"
     license: The Artistic License 2.0
     author:
         name: Herbert Spencer
@@ -26,5 +25,5 @@ mf:
         twitter: hspencer
     github:
         url: https://hspencer.com/mf-m.git
-        project: MediaFranca
-        org: none
+        project: mf
+        org: mediafranca

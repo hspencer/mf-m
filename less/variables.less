@@ -29,7 +29,7 @@
 //** Background color for `<body>`.
 @body-bg:               #fff;
 //** Global text color on `<body>`.
-@text-color:            @gray-dark;
+@text-color:            @gray;
 
 //** Global textual link color.
 @link-color:            @brand-primary;
@@ -42,12 +42,12 @@
 //## Font, line-height, and color for body text, headings, and more.
 
 @font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
-@font-family-serif:       Georgia, "Times New Roman", Times, serif;
+@font-family-serif:       "Roboto Slab", Georgia, "Times New Roman", Times, serif;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 @font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
-@font-family-base:        @font-family-sans-serif;
+@font-family-base:        @font-family-serif;
 
-@font-size-base:          16px;
+@font-size-base:          20px;
 @font-size-large:         ceil((@font-size-base * 1.25)); // ~18px
 @font-size-small:         ceil((@font-size-base * 0.85)); // ~12px
 
@@ -65,9 +65,9 @@
 
 //** By default, this inherits from the `<body>`.
 @headings-font-family:    inherit;
-@headings-font-weight:    500;
+@headings-font-weight:    700;
 @headings-line-height:    1.1;
-@headings-color:          inherit;
+@headings-color:          darken(@brand-primary, 12);
 
 //== Components
 //
@@ -128,7 +128,7 @@
 //
 //## For each of Bootstrap's buttons, define text, background and border color.
 
-@btn-font-weight:                normal;
+@btn-font-weight:                700;
 
 @btn-default-color:              #333;
 @btn-default-bg:                 #fff;
