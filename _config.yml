@@ -4,7 +4,7 @@ source: .
 destination: _gh-pages
 lsi: false
 markdown: rdiscount
-baseurl: http://hspencer.github.io/mf-m
+baseurl: http://mediafranca.github.io/fundamentos
 author: Herbert Spencer
 pygments: true
 permalink: pretty
@@ -24,6 +24,6 @@ mf:
         email: hspencer@ead.cl
         twitter: hspencer
     github:
-        url: https://hspencer.com/mf-m.git
+        url: http://mediafranca.github.io/fundamentos
         project: mf
         org: mediafranca
