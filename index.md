@@ -1,10 +1,11 @@
 ---
 layout: standard
 title: MediaFranca
+active: home
 ---
 
 <header>
-	<h1><img src="{{ site.baseurl }}/images/mf-logo.svg"><span>media</span>franca</h1>
+	<h1><img src="{{ site.baseurl }}/images/mf-logo.svg"><span>media</span>franca</h1>{% include nav-pages.html %}
 </header>
 
 <div class='row'>
