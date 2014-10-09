@@ -11,8 +11,24 @@ header{
 		}
 	}
 	.nav{
-		min-width: 40%;
+		width: 50%;
 		text-align: right;
+		li{margin: 0 16px 0 0}
+	}
+}
+
+.nav{
+	li{
+		display: inline-block;
+		margin: 16px 16px 0px 0;
+		font-weight: 700;
+		a:hover{
+			background-color: @white;
+			box-shadow: 2px 2px 0 fade(@component-active-bg, 30), 
+						2px -2px 0 fade(@component-active-bg, 30),
+						-2px 2px 0 fade(@component-active-bg, 30),
+						-2px -2px 0 fade(@component-active-bg, 30);
+		}
 	}
 }
 
@@ -34,6 +50,9 @@ header{
 	}
 }
 
+p, li{
+	font-weight: 300;
+}
 .footer,
 footer{
 	ul{
