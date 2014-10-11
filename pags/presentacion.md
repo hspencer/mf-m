@@ -5,7 +5,8 @@ title: "MediaFranca: Una introducción"
 <!-- This space is intentionally left blank -->
 {% include division.html %}
 <div class='container'>
-	<h1>MediaFranca</h1>
+	
+	<h1 class='jumbo tcenter'>MediaFranca</h1>
 
 	<small>
 	<i class='fa fa-keyboard'></i> usa las flechas del teclado para navegar esta presentación. (También sirven: N &amp; P, F &amp; B)
@@ -13,7 +14,17 @@ title: "MediaFranca: Una introducción"
 
 </div>
 
+{% include division.html %}
 
+<div class='container'>
+	<h2>¿Por qué?</h2>
+	<ul>
+		<li>porque el individualismo radical redunda en el deterioro del capital social, por lo que se requiere comprender la inherente presencia cívica de cada individuo miembro de su comunidad</li>
+		<li>porque el paradigma de gobernabilidad por representación deja de tener sentido en la era de la des-intermediación</li>
+		<li>porque tenemos ideas y propuestas constructivas y el actual sistema no ofrece forma para canalizar nuestros aportes</li>
+		<li>porque sabemos que lo debemos hacer, o, al menos, intentar</li>
+	</ul>
+</div>
 
 {% include division.html %}
 
