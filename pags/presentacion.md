@@ -70,17 +70,17 @@ title: "MediaFranca: Una introducción"
 		<h2 class='title tcenter'>Componentes democráticos</h2>
 		<br><br>
 		<div class='row '>
-			<div class='col-sm-4'>
+			<div class='col-sm-4 tcenter'>
 				<div class='circle'>información</div>
 				<br>
 				<p>acceso libre y desintermediado</p>
 			</div>
-			<div class='col-sm-4'>
+			<div class='col-sm-4 tcenter'>
 				<div class='circle'>reglas del juego</div>
 				<br>
 				<p>procedimientos consensuados</p>
 			</div>
-			<div class='col-sm-4'>
+			<div class='col-sm-4 tcenter'>
 				<div class='circle'>plataformas</div>
 				<br>
 				<p>espacios y herramientas</p>
@@ -219,7 +219,7 @@ title: "MediaFranca: Una introducción"
 
 <div class='container'>
 	<div class='vcenter'>
-		<div class='tcenter'>
+		<div class='tcenter w100'>
 			disponible en:<br>
 			<strong>http://mediafranca.github.io/fundamentos</strong>
 		</div>

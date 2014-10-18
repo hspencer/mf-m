@@ -147,9 +147,11 @@ footer{
 
 .tcenter{
 	text-align: center;
-	width: 100%;
 }
 
+.w100{
+	width: 100%;
+}
 
 .h90 {
 	height: 90% !important;
@@ -177,6 +179,7 @@ footer{
 }
 
 .circle{
+	display: inline-block;
 	font-weight: bolder;
 	color: @white;
 	text-shadow: 0 0 0 4px darken(@brand-primary, 30);
@@ -184,13 +187,15 @@ footer{
 	background-color: darken(@brand-primary, 15);
 	.size(300px, 300px);
 	border-radius: 50%;
-	vertical-align: middle;
+	padding: 32% 0;
 	text-align: center;
-	display: table-cell;
+
 }
 
 .illustration{
+	text-align: center;
 	svg{
-		fill: @black;
+		width: 100%;
+		height: auto;
 	}
 }
