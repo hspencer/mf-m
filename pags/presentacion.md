@@ -26,15 +26,11 @@ title: "MediaFranca: Una introducción"
 
 {% include division.html %}
 
+
 <div class='bk bk-black'>{% include back.html %}
-	<div class='container'>
-		<!-- la motivaciones -->
-		<h2 class='title'>¿Por qué?</h2>
-		<ul>
-			<li>El diseño de la polis y de las herramientas democráticas representan la más alta instancia para el oficio (del diseño)</li>
-			<li>porque el paradigma de gobernabilidad por representación deja de tener sentido en la era de la información que tiende a la des-intermediación</li>
-			<li>porque la comunidad tiene propuestas e ideas constructivas y el actual sistema no ofrece formas para canalizar estos aportes</li>
-		</ul>
+	<div class="container">
+		<h2 class='title'>¿por qué?</h2>
+		<img class='air-top' src="{{ site.baseurl }}/images/meta-diseno.svg">
 	</div>
 </div>
 
