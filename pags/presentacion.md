@@ -7,7 +7,7 @@ title: "MediaFranca: Una introducción"
 <div class='container tcenter'>
 	<h1 class='jumbo'>MediaFranca</h1>
 	<p class='bold'>Comisión Participación y Democracia PUCV</p>
-	<div class='row air-vertical-jumbo'>
+	<div class='row'>
 	<div class='bio col-md-4 col-md-offset-2'>
 		<h4>Herbert Spencer</h4>
 		<span class='label label-primary'><a href="http://twitter.com/hspencer"><i class='fa fa-twitter'></i> @hspencer</a></span>
@@ -20,22 +20,13 @@ title: "MediaFranca: Una introducción"
 	</div>
 </div>
 	<small class='blue'>
-		<i class='fa fa-keyboard-o fa-2x'></i> usa las flechas del teclado 
-		<span class="fa-stack">
-			<i class="fa fa-square-o fa-stack-2x"></i>
-			<i class="fa fa-long-arrow-left fa-stack-1x"></i>
-		</span>
-		<span class="fa-stack">
-			<i class="fa fa-square-o fa-stack-2x"></i>
-			<i class="fa fa-long-arrow-right fa-stack-1x"></i>
-		</span>
-		para navegar esta presentación.
+		<i class='fa fa-keyboard-o fa-2x'></i> usa las flechas del teclado <i class="fa fa-arrow-left"></i> <i class="fa fa-arrow-right"></i> para navegar esta presentación.
 	</small>
 </div>
 
 {% include division.html %}
 
-<div class='bk bk-black'>
+<div class='bk bk-black'>{% include back.html %}
 	<div class='container'>
 		<!-- la motivaciones -->
 		<h2 class='title'>¿Por qué?</h2>
@@ -215,13 +206,60 @@ title: "MediaFranca: Una introducción"
 	</div>
 </div>
 
+----
+
+<div class='bk bk-white'>
+	{% include back.html %}
+	<div class='container h90'>
+		<h2 class='title'>Proyectos Similares</h2>
+		<div class="row">
+			<div class="col-md-6">
+				<ul class='small'>
+					<li><strong>BetterMeans</strong> (URL http://bettermeans.com/)</li>
+					<li><strong>Boston Citizens Connect</strong> (URL http://itunes.apple.com/cl/app/boston-citizens-connect/id330894558?mt=8)</li>
+					<li><strong>Change by Us</strong> (Local Projects, URL http://changeby.us/)</li>
+					<li><strong>Ciudad Viva</strong> (URL http://www.ciudadviva.cl/)</li>
+					<li><strong>ConvinceMe</strong> (URL http://www.convinceme.net/)</li>
+					<li><strong>D-CENT</strong> (URL http://dcentproject.eu/)</li>
+					<li><strong>Debategraph</strong> (URL http://debategraph.org/)</li>
+					<li><strong>Democracy OS</strong> (URL http://democracyos.org/)</li>
+					<li><strong>Proyecto Estorninos</strong> (Joaquín Martel, Jaime Pérez Moena, URL http://estorninos.ead.pucv.cl)</li>
+					<li><strong>EveryBlock</strong> (URL http://www.everyblock.com/)</li>
+					<li><strong>FixMyStreet</strong> (URL http://www.fixmystreet.com/)</li>
+					<li><strong>GNU.Free</strong> (Free Software Foundation, URL http://www.jasonkitcat.com/dev/)</li>
+					<li><strong>Give a Minute</strong> (URL http://giveaminute.info/)</li>
+					<li><strong>MeetUp</strong> (URL http://www.meetup.com/)</li>
+		</ul></div>
+			<div class="col-md-6">
+				<ul class='small'>
+					<li><strong>Neighborhood Notes</strong> (URL http://www.neighborhoodnotes.com/)</li>
+					<li><strong>Nueva Región, Cómo Vamos</strong> (URL http://www.losrioscomovamos.cl/)</li>
+					<li><strong>Open Ideo</strong> (Ideo, URL http://openideo.com/)</li>
+					<li><strong>Pledge Bank</strong> (URL http://www.pledgebank.com/)</li>
+					<li><strong>PortoAlegre.cc</strong> (URL http://www.portoalegre.cc/)</li>
+					<li><strong>Projects for Public Spaces</strong> (URL http://www.pps.org/)</li>
+					<li><strong>Seeclickfix</strong> (URL http://www.seeclickfix.com)</li>
+					<li><strong>Tactical Tech</strong> (URL http://www.tacticaltech.org/)</li>
+					<li><strong>Urbanology Online</strong> (Fundación Guggenheim, BMW, URL http://www.bmwguggenheimlab.org/urbanologyonline)</li>
+					<li><strong>Ushahidi</strong> (URL http://www.ushahidi.com/)</li>
+					<li><strong>Vote Stream</strong> (Trust the Vote, URL http://votestream.trustthevote.org/)</li>
+					<li><strong>Ziudad</strong> (URL http://www.ziudad.es/)</li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</div>
 {% include division.html %}
 
-<div class='container'>
-	<div class='vcenter'>
-		<div class='tcenter w100'>
-			disponible en:<br>
-			<strong>http://mediafranca.github.io/fundamentos</strong>
-		</div>
-	</div >
+<div class='bk bk-black'>
+	<div class='container'>
+		<div class='vcenter'>
+			<div class='tcenter w100'>
+				disponible en:<br>
+				<strong>http://mediafranca.github.io/fundamentos</strong>
+			</div>
+		</div >
+</div>	
+
 </div>
