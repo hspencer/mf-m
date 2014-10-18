@@ -3,6 +3,7 @@
 
 install:
 	bower install
+	make dist
 
 server:
 	jekyll server --watch --baseurl=
@@ -16,3 +17,4 @@ dist:
 	cp -R bower_components/font-awesome/fonts fonts/font-awesome
 	cp bower_components/bootstrap/dist/js/bootstrap.min.js js
 	cp bower_components/jquery/dist/jquery.min.js js
+	cp -R bower_components/jekyll-slides-template/js .

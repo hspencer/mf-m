@@ -114,3 +114,33 @@ footer{
 .air-lg{margin: @line-height-computed * 2}
 .air-vertical{margin: @line-height-computed/2 0}
 .air-horizontal{margin: 0 @line-height-computed}
+
+// alignment
+
+.tcenter{
+	text-align: center;
+	width: 100%;
+}
+
+.vcenter,
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.circle{
+	font-weight: bolder;
+	color: @white;
+	text-shadow: 0 0 0 4px darken(@brand-primary, 30);
+	border: 6px solid fade(@white, 90);
+	background-color: darken(@brand-primary, 15);
+	.size(300px, 300px);
+	border-radius: 50%;
+	vertical-align: middle;
+	text-align: center;
+	display: table-cell;
+
+}
