@@ -3701,11 +3701,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: #808080;
 }
 .label-primary {
-  background-color: #32c5ff;
+  background-color: #007fb2;
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
-  background-color: #00b6fe;
+  background-color: #005b7e;
 }
 .label-success {
   background-color: #5cb85c;
@@ -6907,6 +6907,24 @@ header .nav li {
 .label a {
   color: #ffffff;
 }
+.bio {
+  text-align: left;
+}
+.bio h4 {
+  font-weight: 900;
+  margin: 0 0 -0.5em 0;
+  padding: 0;
+}
+.bio .label {
+  font-size: 16px;
+}
+.bio p {
+  font-size: 22px;
+}
+.bio a {
+  color: #ffffff;
+  font-weight: bolder;
+}
 .nav-secondary .container {
   padding-top: 18.648px;
 }
@@ -6977,12 +6995,19 @@ footer a:hover {
 .air-horizontal {
   margin: 0 28px;
 }
+.air-vertical-jumbo {
+  margin: 112px 0;
+}
 .tcenter {
   text-align: center;
   width: 100%;
 }
 .h90 {
   height: 90% !important;
+}
+.bold,
+.strong {
+  font-weight: 900;
 }
 .vcenter,
 .vertical-center {
@@ -7011,6 +7036,9 @@ footer a:hover {
   vertical-align: middle;
   text-align: center;
   display: table-cell;
+}
+.illustration svg {
+  fill: #000000;
 }
 .back-button {
   position: absolute;
@@ -7051,7 +7079,7 @@ footer a:hover {
   color: #cbf0ff;
 }
 .slides small {
-  font-size: 14px;
+  font-size: 16px;
 }
 .log {
   font-size: .5em;
@@ -7093,6 +7121,10 @@ footer a:hover {
 .slide h6 {
   padding: 0em;
   margin: .5em 0em;
+}
+.slide .title {
+  font-size: 1.3em;
+  font-weight: 700;
 }
 .slide img {
   max-width: 100%;

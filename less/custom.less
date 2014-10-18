@@ -50,6 +50,24 @@ header{
 	}
 }
 
+.bio{
+	text-align: left;
+	h4{
+		font-weight: 900;
+		margin: 0 0 -.5em 0;
+		padding: 0;
+	}
+	.label{
+		font-size: 16px;
+	}
+	p{
+		font-size: 22px;
+	}
+	a{
+		color: @white;
+		font-weight: bolder;
+	}
+}
 .nav-secondary{
 	.container{
 		padding-top: @line-height-computed *.666;
@@ -123,6 +141,7 @@ footer{
 .air-lg{margin: @line-height-computed * 2}
 .air-vertical{margin: @line-height-computed/2 0}
 .air-horizontal{margin: 0 @line-height-computed}
+.air-vertical-jumbo{margin: @line-height-computed*4 0}
 
 // alignment
 
@@ -131,8 +150,16 @@ footer{
 	width: 100%;
 }
 
+
 .h90 {
 	height: 90% !important;
+}
+
+// utils
+
+.bold,
+.strong{
+	font-weight: 900;
 }
 
 .vcenter,
@@ -160,4 +187,10 @@ footer{
 	vertical-align: middle;
 	text-align: center;
 	display: table-cell;
+}
+
+.illustration{
+	svg{
+		fill: @black;
+	}
 }
