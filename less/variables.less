@@ -27,7 +27,7 @@
 // ## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-@body-bg:               #fff;
+@body-bg:               @brand-primary;
 //** Global text color on `<body>`.
 @text-color:            @gray;
 
@@ -65,7 +65,7 @@
 
 //** By default, this inherits from the `<body>`.
 @headings-font-family:    inherit;
-@headings-font-weight:    700;
+@headings-font-weight:    100;
 @headings-line-height:    1.1;
 @headings-color:          darken(@brand-primary, 12);
 
@@ -89,7 +89,7 @@
 @line-height-small:         1.5;
 
 @border-radius-base:        4px;
-@border-radius-large:       6px;
+@border-radius-large:       8px;
 @border-radius-small:       3px;
 
 //** Global color for active items (e.g., navs or dropdowns).
@@ -381,7 +381,7 @@
 //##
 
 //=== Shared nav styles
-@nav-link-padding:                          10px 15px;
+@nav-link-padding:                          5px 15px;
 @nav-link-hover-bg:                         @gray-lighter;
 
 @nav-disabled-link-color:                   @gray-light;
@@ -402,8 +402,8 @@
 @nav-tabs-justified-active-link-border-color:     @body-bg;
 
 //== Pills
-@nav-pills-border-radius:                   @border-radius-base;
-@nav-pills-active-link-hover-bg:            fade(@component-active-bg, 30);
+@nav-pills-border-radius:                   @border-radius-large * 2.6;
+@nav-pills-active-link-hover-bg:            fade(@component-active-bg, 70);
 @nav-pills-active-link-hover-color:         @component-active-color;
 
 
@@ -530,7 +530,7 @@
 //** Default label background color
 @label-default-bg:            @gray-light;
 //** Primary label background color
-@label-primary-bg:            @brand-primary;
+@label-primary-bg:            darken(@brand-primary, 25);
 //** Success label background color
 @label-success-bg:            @brand-success;
 //** Info label background color
