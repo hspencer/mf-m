@@ -30,7 +30,7 @@ title: "MediaFranca: Una introducción"
 <div class='bk bk-black'>{% include back.html %}
 	<div class="container">
 		<h2 class='title'>¿por qué?</h2>
-		<img class='air-top' src="{{ site.baseurl }}/images/meta-diseno.svg">
+		<img class='illustration' src="{{ site.baseurl }}/images/meta-diseno.svg">
 	</div>
 </div>
 
@@ -141,28 +141,28 @@ title: "MediaFranca: Una introducción"
 
 <div class='container'>
 	<h3 class='title tcenter'>Modelo plebiscitario directo</h3>
-	<img src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
 	<h3 class='title tcenter'>Modelo de redes sociales</h3>
-	<img src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
 	<h3 class='title tcenter'>Modelo de medición de opinión pública</h3>
-	<img src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
 	<h3 class='title tcenter'>Modelo inclusivo deliberativo</h3>
-	<img src="{{ site.baseurl }}/images/modelo-democracia-m4.svg">
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m4.svg">
 </div>
 
 {% include division.html %}
