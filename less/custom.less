@@ -1,3 +1,14 @@
+// backgrounds
+.bk-white{
+	background-color: @white;
+	padding: 0 0 4em 0;
+}
+
+.bk-black{
+	background-color: @black;
+}
+
+// HTML standard elements
 header{
 	margin: 3em 0;
 	img{
@@ -24,8 +35,7 @@ header{
 		font-weight: 700;
 		a:hover{
 			background-color: @white;
-			box-shadow: 0 0 0 4px fade(@component-active-bg, 30), 
-
+			box-shadow: 0 0 0 4px fade(@component-active-bg, 30);
 		}
 	}
 }
@@ -34,11 +44,6 @@ header{
 	a{
 		color: @white;
 	}
-}
-
-.bk-white{
-	background-color: @white;
-	padding: 0 0 4em 0;
 }
 
 .nav-secondary{
@@ -124,11 +129,16 @@ footer{
 
 .vcenter,
 .vertical-center {
-  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
-  min-height: 100vh; /* These two lines are counted as one :-)       */
-
-  display: flex;
-  align-items: center;
+	min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+	min-height: 100vh; /* These two lines are counted as one :-)       */
+	-moz-display: flex;
+	-webkit-display: flex;
+	-o-display: flex;
+	display: flex;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+	-o-align-items: center;
+	align-items: center;
 }
 
 .circle{
@@ -142,5 +152,4 @@ footer{
 	vertical-align: middle;
 	text-align: center;
 	display: table-cell;
-
 }
