@@ -38,7 +38,7 @@ title: "MediaFranca: Una introducción"
 <div class='bk bk-black'>
 	<div class='container'>
 		<!-- la motivaciones -->
-		<h2>¿Por qué?</h2>
+		<h2 class='title'>¿Por qué?</h2>
 		<ul>
 			<li>El diseño de la polis y de las herramientas democráticas representan la más alta instancia para el oficio (del diseño)</li>
 			<li>porque el paradigma de gobernabilidad por representación deja de tener sentido en la era de la información que tiende a la des-intermediación</li>
@@ -53,37 +53,13 @@ title: "MediaFranca: Una introducción"
 	<!-- la motivaciones -->
 	<h2 class='title'>Miedos y Mitos de la democracia electrónica</h2>
 	<ul>
-		<li>el sezgo en la representación</li>
-		<li>expectativas demasiado altas</li>
-		<li>apatía</li>
-		<li>falta de educación cívica</li>
-		<li>exclusión digital</li>
-		<li>problemas de escala</li>
+		<li>Sezgo en la representación</li>
+		<li>Expectativas demasiado altas</li>
+		<li>Apatía</li>
+		<li>Falta de educación cívica</li>
+		<li>Exclusión digital</li>
+		<li>Problemas de escala</li>
 	</ul>
-</div>
-
-{% include division.html %}
-
-
-<div class='bk bk-white'>
-	<div class='container h90'>
-		<h2 class='tcenter'>Investigación</h2>
-		<img src="{{ site.baseurl }}/images/mapa-agrupacion.svg">
-	</div>
-</div>
-
-{% include division.html %}
-
-<div class='bk bk-black'>
-	<div class='container'>
-		<!-- la motivaciones -->
-		<h2 class='title'>¿Por qué?</h2>
-		<ul>
-			<li>El diseño de la polis y de las herramientas democráticas representan la más alta instancia para el oficio (del diseño)</li>
-			<li>porque el paradigma de gobernabilidad por representación deja de tener sentido en la era de la información que tiende a la des-intermediación</li>
-			<li>porque la comunidad tiene propuestas e ideas constructivas y el actual sistema no ofrece formas para canalizar estos aportes</li>
-		</ul>
-	</div>
 </div>
 
 {% include division.html %}
@@ -91,23 +67,75 @@ title: "MediaFranca: Una introducción"
 <div class='bk bk-white'>
 	<div class='container'>
 		<!-- marco teórico general: modelo mediafranca -->
-		<h2 class='tcenter'>Estructura de Participación</h2>
-		<br><br><br>
+		<h2 class='title tcenter'>Componentes democráticos</h2>
+		<br><br>
 		<div class='row '>
 			<div class='col-sm-4'>
 				<div class='circle'>información</div>
-				<p class="tcenter">acceso libre y desintermediado</p>
+				<br>
+				<p>acceso libre y desintermediado</p>
 			</div>
 			<div class='col-sm-4'>
-				<div class='circle'>consulta</div>
-				<p>construcción del espacio público</p>
+				<div class='circle'>reglas del juego</div>
+				<br>
+				<p>procedimientos consensuados</p>
 			</div>
 			<div class='col-sm-4'>
-				<div class='circle'>canal</div>
-				<p>espacios y herramientas colaborativas</p>
+				<div class='circle'>plataformas</div>
+				<br>
+				<p>espacios y herramientas</p>
 			</div>
 		</div>
 	</div>
+</div>
+
+{% include division.html %}
+
+<div class='bk bk-white'>
+	<div class='container'>
+		<h2 class='title tcenter'>Modelo de la interacción democrática</h2>
+		<br><br>
+		<div class='row '>
+			<div class='col-sm-6'>
+				<h3 class='title'>Discurso</h3>
+				<ul>
+					<li>Personal</li>
+					<li>Colectivo</li>
+				</ul>
+			</div>
+			<div class='col-sm-6'>
+				<h3 class='title'>Espacio</h3>
+				<ul>
+					<li>Divergente</li>
+					<li>Convergente</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h2 class='title tcenter'>Discurso personal</h2>
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h2 class='title tcenter'>Discurso colectivo</h2>
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h2 class='title tcenter'>Espacio divergente</h2>
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h2 class='title tcenter'>Espacio convergente</h2>
 </div>
 
 {% include division.html %}
@@ -125,28 +153,28 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title'>Modelo plebiscitario directo</h3>
+	<h3 class='title tcenter'>Modelo plebiscitario directo</h3>
 	<img src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title'>Modelo de redes sociales</h3>
+	<h3 class='title tcenter'>Modelo de redes sociales</h3>
 	<img src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title'>Modelo de medición de opinión pública</h3>
+	<h3 class='title tcenter'>Modelo de medición de opinión pública</h3>
 	<img src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title'>Modelo inclusivo deliberativo</h3>
+	<h3 class='title tcenter'>Modelo inclusivo deliberativo</h3>
 	<img src="{{ site.baseurl }}/images/modelo-democracia-m4.svg">
 </div>
 
@@ -180,7 +208,12 @@ title: "MediaFranca: Una introducción"
 
 {% include division.html %}
 
-ble ble
+<div class='bk bk-white'>
+	<div class='container h90'>
+		<h2 class='title tcenter'>Investigación</h2>
+		<img src="{{ site.baseurl }}/images/mapa-agrupacion.svg">
+	</div>
+</div>
 
 {% include division.html %}
 
