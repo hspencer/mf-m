@@ -4,10 +4,10 @@ title: "MediaFranca: Una introducción"
 ---
 <!-- This space is intentionally left blank -->
 {% include division.html %}
-<div class='container'>
-	<h1 class='jumbo tcenter'>MediaFranca</h1>
+<div class='container tcenter'>
+	<h1 class='jumbo'>MediaFranca</h1>
 	<p>Comisión Participación y Democracia PUCV</p>
-	<small>
+	<small class='blue'>
 	<i class='fa fa-keyboard'></i> usa las flechas del teclado para navegar esta presentación. (También sirven: N &amp; P, F &amp; B)
 	</small>
 </div>
@@ -28,7 +28,6 @@ title: "MediaFranca: Una introducción"
 </div>
 
 {% include division.html %}
-
 
 <div class='bk bk-black'>
 	<div class='container'>
