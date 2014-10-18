@@ -8,18 +8,7 @@ active: proyecto
 	{% include nav-pages.html %}
 </div>
 
-<div class='row'>
-<div class='col-md-6'>
-	<h3>¿Qué es?</h3>
-	<p>Es un proyecto colaborativo interinstitucional que busca construir una plataforma digital de publicaciones sobre contenidos y noticias de carácter cívico, facilitando el acceso de lectura, el suministro de herramientas para discusiones propositivas, y el desarrollo de proyectos junto a las autoridades correspondientes.
-		Cada uno de nosotros es un actor relevante en el ejercicio democrático. Por eso, buscamos construir un espacio público de colaboración digital que haga aparecer la sabiduría colectiva, vislumbrando aquello que la ciudadanía considera relevante construyendo un modo de diálogo y deliberación en lo que en nuestro alrededor acontece.</p>
-	</div>
-	<div class='col-md-6'>
-		<h3>¿Cómo?</h3>
-		<p>Mediafranca recoge la voz individual a través de los distintos tipos de Publicaciones:; permitiendo conectar las Observaciones, Reportes, Preguntas e Ideas y generando una o varias Conversaciones entre los participantes. A medida que estas crecen en participantes y publicaciones conectadas, la plataforma sugiere estados de Deliberación para la creación de proyectos que permiten la Gestión de tareas y metas que los participantes asumen en pos de la idea a la que se han sumado.</p>
-	</div>
-</div>
-
+<p class='air-top'>Este proyecto surge de la investigación en la línea "diseño para la democracia" realizada en la e[ad] Escuela de Arquitectura y Diseño de la Pontificia Universidad Católica de Valparaíso a partir del año 2010. Vea la documentación completa en <a href='http://wiki.ead.pucv.cl/index.php/MediaFranca' title='documentación en Wiki Casiopea de la e[ad]'>Casiopea</a>.</p>
 
 <h2>Principios</h2>
 <h3>Experiencia democrática</h3>
@@ -32,7 +21,6 @@ Dentro de una dinámica de conversación, la construcción de personas atraviesa
 			<li><strong>Modelo Palomas</strong>: (top-down) Solventa la necesidad de cuerpo coordinador y es capaz de enfrentar a la institucionalidad, sin embargo, no satisface la dinámica de diálogo entre bases y su movimiento es coordinado por representantes jerárquicos que consultan con sus representados a través del sufragio. No canaliza la palabra y la acción y termina por desencadenar una disputa interna que cuestiona el grado de participación.</li>
 			<li><strong>Modelo Estorninos</strong>: (bottom-up) Acota su espacio de debate y de acción pero internamente posee mayor coordinación a través de líderes descentralizados y reconocidos por su trabajo empeñado, modo meritocrático. El método deliberativo no es impuesto por una votación y los acuerdos son consensos que integran todas las partes y a todos los miembros. La desencadenación de palabra-acción se torna más evidente y el desarrollo del grupo es autónomo y capaz de re-estructurarse sin procesos burocráticos.</li>
 		</ul>
-
 	</li>
 	<li>
 		<h4>Temas, Territorio y Personas</h4>
