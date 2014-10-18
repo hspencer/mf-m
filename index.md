@@ -9,7 +9,7 @@ active: home
 </header>
 
 
-<div class='illustration'>{% include modelo1.svg %}</div>
+<div class='illustration'>{% include modelo-democracia.svg %}</div>
 
 <div class='row'>
 	<div class='col-md-6'>
