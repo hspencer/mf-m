@@ -1,11 +1,10 @@
 presentación
 
-
 intro nuestra
 
 los mitos y miedos
 	* el sezgo en la representación
-	* expectativas demaciado altas
+	* expectativas demasiado altas
 	* apatía
 	* falta de educación cívica
 	* exclusión digital
@@ -36,7 +35,6 @@ condiciones mínimas
 	* acceso libre a la información
 	* conversación, consultas y temas en torno a los cuales se constituyen "los públicos"
 	* canales y herramientas digitales
-
 
 en modelo completo, en detalle
 
