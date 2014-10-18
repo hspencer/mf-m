@@ -14,21 +14,6 @@ title: "MediaFranca: Una introducción"
 
 {% include division.html %}
 
-<div class='container'>
-	<!-- la motivaciones -->
-	<h2>Miedos y Mitos de la democracia electrónica</h2>
-	<ul>
-		<li>el sezgo en la representación</li>
-		<li>expectativas demaciado altas</li>
-		<li>apatía</li>
-		<li>falta de educación cívica</li>
-		<li>exclusión digital</li>
-		<li>problemas de escala</li>
-	</ul>
-</div>
-
-{% include division.html %}
-
 <div class='bk bk-black'>
 	<div class='container'>
 		<!-- la motivaciones -->
@@ -41,6 +26,29 @@ title: "MediaFranca: Una introducción"
 	</div>
 </div>
 
+{% include division.html %}
+
+<div class='container'>
+	<!-- la motivaciones -->
+	<h2>Miedos y Mitos de la democracia electrónica</h2>
+	<ul>
+		<li>el sezgo en la representación</li>
+		<li>expectativas demasiado altas</li>
+		<li>apatía</li>
+		<li>falta de educación cívica</li>
+		<li>exclusión digital</li>
+		<li>problemas de escala</li>
+	</ul>
+</div>
+
+{% include division.html %}
+
+<div class='bk bk-white'>
+	<div class='container h90'>
+		<h2 class='tcenter'>Investigación</h2>
+		<img src="{{ site.baseurl }}/images/mapa-agrupacion.svg">
+	</div>
+</div>
 
 {% include division.html %}
 
@@ -52,12 +60,15 @@ title: "MediaFranca: Una introducción"
 		<div class='row '>
 			<div class='col-sm-4'>
 				<div class='circle'>información</div>
+				<p class="tcenter">acceso libre y desintermediado</p>
 			</div>
 			<div class='col-sm-4'>
 				<div class='circle'>consulta</div>
+				<p>construcción del espacio público</p>
 			</div>
 			<div class='col-sm-4'>
 				<div class='circle'>canal</div>
+				<p>espacios y herramientas colaborativas</p>
 			</div>
 		</div>
 	</div>
@@ -65,15 +76,42 @@ title: "MediaFranca: Una introducción"
 
 {% include division.html %}
 
-
 <div class='container'>
 	<h2>Modelos</h2>
 	<ul>
-		<li>modelo plebiscitario directo</li>
-		<li>modelo de redes sociales</li>
-		<li>modelo de medición de opinión pública</li>
-		<li>modelo inclusivo deliberativo</li>
+		<li>Modelo plebiscitario directo</li>
+		<li>Modelo de redes sociales</li>
+		<li>Modelo de medición de opinión pública</li>
+		<li>Modelo inclusivo deliberativo</li>
 	</ul>
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h3>Modelo plebiscitario directo</h3>
+	<img src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h3>Modelo de redes sociales</h3>
+	<img src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h3>Modelo de medición de opinión pública</h3>
+	<img src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h3>Modelo inclusivo deliberativo</h3>
+	<img src="{{ site.baseurl }}/images/modelo-democracia-m4.svg">
 </div>
 
 {% include division.html %}
