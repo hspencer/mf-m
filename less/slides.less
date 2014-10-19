@@ -114,10 +114,12 @@
 .tcenter{text-align: center;}
 
 h1.jumbo{
+    font-weight: 300;
+    letter-spacing: -.07ex;
     color: @white;
     font-size: 5em !important;
     margin: .2em 0;
-    .longShadow(darken(@brand-primary, 15), 250);
+    .longShadow(fade(darken(@brand-primary, 20), 2), 340, 1);
 }
 
 div.thumbnails {
@@ -162,6 +164,21 @@ div.thumbnails {
             }
         }
     }
+}
+
+.circle{
+    display: inline-block;
+    font-weight: bolder;
+    color: @white;
+    .longShadow(@blue, 6, 100);
+    //border: 6px solid fade(@white, 90);
+    background-color: darken(@brand-primary, 15);
+    .size(300px, 300px);
+    border-radius: 50%;
+    padding: 32% 0;
+    text-align: center;
+    margin: 0 0 50px 0;
+    .longShadowBox(@blue, 6, 100);
 }
 
 table.outline td.blank-row {
