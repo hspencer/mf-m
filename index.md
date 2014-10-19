@@ -5,11 +5,13 @@ active: home
 ---
 
 <header>
-	<h1><img src="{{ site.baseurl }}/images/mf-logo.svg"><span>media</span>franca</h1>{% include nav-pages.html %}
+	<h1><img src="{{ site.baseurl }}/images/mf-logo.svg"><span>media</span>franca</h1>{% include nav.html %}
 </header>
 
+<div class='tcenter'>
+	<img src="{{ site.baseurl }}/images/modelo-democracia.svg">
+</div>
 
-<div class='illustration'>{% include modelo-democracia.svg %}</div>
 
 <div class='row'>
 	<div class='col-md-6'>

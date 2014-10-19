@@ -5,7 +5,7 @@ title: "MediaFranca: Una introducción"
 <!-- This space is intentionally left blank -->
 {% include division.html %}
 <div class='container tcenter'>
-	<h1 class='jumbo'>MediaFranca</h1>
+	<h1 class='jumbo'>mediafranca</h1>
 	<p class='bold'>Comisión Participación y Democracia PUCV</p>
 	<div class='row'>
 	<div class='bio col-md-4 col-md-offset-2'>

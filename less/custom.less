@@ -51,10 +51,13 @@ header{
 }
 
 .bio{
+	margin: 200px 0 0 20px;
 	text-align: left;
 	h4{
+		color: @white !important;
+		.longShadow(darken(@brand-primary, 20), 6);
 		font-weight: 900;
-		margin: 0 0 -.5em 0;
+		margin: 0 0 -.5em 0 !important;
 		padding: 0;
 	}
 	.label{
@@ -164,18 +167,30 @@ footer{
 	font-weight: 900;
 }
 
+.inline{display: inline-block;}
+
+h1.nav-header{
+	display: inline-block;
+	img{height: 32px}
+	font-size: 32px;
+	font-weight: 500;
+	span{
+		color: @gray-light
+	}
+}
+
 .vcenter,
 .vertical-center {
 	min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
 	min-height: 100vh; /* These two lines are counted as one :-)       */
-	-moz-display: flex;
-	-webkit-display: flex;
-	-o-display: flex;
-	display: flex;
-	-moz-align-items: center;
-	-webkit-align-items: center;
-	-o-align-items: center;
-	align-items: center;
+-moz-display: flex;
+-webkit-display: flex;
+-o-display: flex;
+display: flex;
+-moz-align-items: center;
+-webkit-align-items: center;
+-o-align-items: center;
+align-items: center;
 }
 
 .circle{
@@ -196,4 +211,40 @@ footer{
 	text-align: center;
 	width: 90% !important;
 	height: auto !important;
+}
+
+/*!
+* Less Long Shadow v1.0
+*
+* Open sourced under MIT license by @zensimilia.
+*/
+
+
+// Text-shadow
+.longShadow(@color, @size, @spread: 100, @flag: 1, @tmp: '') when (@size > 0) {
+	@percent: round(@flag / @size * 100) * @spread;
+	@shadowColor: fade(@color, @percent);
+	@shadow: ~"@{size}px @{size}px 1px @{shadowColor}";
+	@ends: ~"@{shadow}, @{tmp}";
+	@shadowString: ~"@{ends} 0px 0px 1px #000";
+	.longShadowLoop(@string, @index) when (@index < 1) {
+		text-shadow: @string;
+	}
+	.longShadowLoop(@shadowString, @size - 1);
+	.longShadow(@color, @size - 1, @spread, @flag + 1, @ends);
+}
+// Box-shadow
+.longShadowBox(@color, @size, @spread: 1, @flag: 1, @tmp: '') when (@size > 0) {
+	@percent: round(@flag / @size * 100) * @spread;
+	@shadowColor: fade(@color, @percent);
+	@shadow: ~"@{size}px @{size}px 0 0 @{shadowColor}";
+	@ends: ~"@{shadow}, @{tmp}";
+	@shadowString: ~"@{ends} 0px 0px 0 0 #000";
+	.longShadowLoop(@string, @index) when (@index < 1) {
+		-webkit-box-shadow: @string;
+		-moz-box-shadow: @string;
+		box-shadow: @string;
+	}
+	.longShadowLoop(@shadowString, @size - 1);
+	.longShadowBox(@color, @size - 1, @spread, @flag + 1, @ends);
 }

@@ -1,4 +1,10 @@
 
+.bk{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
 .back-button{
     position: absolute;
     top: 16px;
@@ -32,6 +38,18 @@
     small{
         font-size: 16px;
     }
+    .bk-white{
+        color: @brand-primary;
+        h1,h2,h3,h4,h5,h6{
+            color: @brand-primary;
+        }
+    }
+    .bk-black{
+        color: @white;
+        h1,h2,h3,h4,h5,h6{
+            color: lighten(@brand-primary, 30%);
+        }
+    } 
 }
 
 .log {
@@ -94,7 +112,13 @@
 }
 
 .tcenter{text-align: center;}
-.jumbo{font-size: 5em !important}
+
+h1.jumbo{
+    color: @white;
+    font-size: 5em !important;
+    margin: .2em 0;
+    .longShadow(darken(@brand-primary, 15), 250);
+}
 
 div.thumbnails {
     position: absolute;
@@ -148,34 +172,3 @@ table.outline .current {
     font-weight: bold;
 }
 
-.notes{
-    font-size: 16px;
-    line-height: 170%;
-    padding: 1em 6em 6em 6em;
-    background-color: #eff1bd;
-    color: #403c31
-}
-
-// backgrounds
-
-
-.bk{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-}
-
-.slides{
-    .bk-white{
-        color: @brand-primary;
-        h1,h2,h3,h4,h5,h6{
-            color: @brand-primary;
-        }
-    }
-    .bk-black{
-        color: @white;
-        h1,h2,h3,h4,h5,h6{
-            color: lighten(@brand-primary, 30%);
-        }
-    } 
-}
