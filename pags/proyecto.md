@@ -22,11 +22,19 @@ Dentro de una dinámica de conversación, la construcción de personas atraviesa
 			<div class="col-sm-8">
 				<h4>1. Experiencia Personal</h4>
 				<p>La experiencia personal se origina cuando la experiencia intelectual, heredada y aprendida desde experiencias anteriores, se enfrenta ante un problema dentro de un contexto que incluye las influencias externas y herramientas. La experiencia intelectual genera inconscientemente una imagen metódica que resuelve o lidera la expresión depositada por la persona. El intelecto es la pieza clave que fragmenta el problema y asume la más compleja como una impresión de iconos y símbolos que pasan a ser parte del intelecto.</p>
-				<p>A partir de nuestra investigación con personas, se definen dos modelos de organización:</p>
-				<ul>
-					<li><strong>Modelo Palomas</strong>: (top-down) Solventa la necesidad de cuerpo coordinador y es capaz de enfrentar a la institucionalidad, sin embargo, no satisface la dinámica de diálogo entre bases y su movimiento es coordinado por representantes jerárquicos que consultan con sus representados a través del sufragio. No canaliza la palabra y la acción y termina por desencadenar una disputa interna que cuestiona el grado de participación.</li>
-					<li><strong>Modelo Estorninos</strong>: (bottom-up) Acota su espacio de debate y de acción pero internamente posee mayor coordinación a través de líderes descentralizados y reconocidos por su trabajo empeñado, modo meritocrático. El método deliberativo no es impuesto por una votación y los acuerdos son consensos que integran todas las partes y a todos los miembros. La desencadenación de palabra-acción se torna más evidente y el desarrollo del grupo es autónomo y capaz de re-estructurarse sin procesos burocráticos.</li>
-				</ul>
+				<p>A partir de nuestra investigación con personas, se definen dos modelos de organización:</p>			
+				<div class='row'>
+					<div class="col-sm-4"><img class='illustration' src="{{ site.baseurl }}/images/modelo-palomas.svg"></div>
+					<div class="col-sm-8">
+						<p><strong>Modelo Palomas</strong>: (top-down) Solventa la necesidad de cuerpo coordinador y es capaz de enfrentar a la institucionalidad, sin embargo, no satisface la dinámica de diálogo entre bases y su movimiento es coordinado por representantes jerárquicos que consultan con sus representados a través del sufragio. No canaliza la palabra y la acción y termina por desencadenar una disputa interna que cuestiona el grado de participación.</p>
+					</div>
+				</div>
+				<div class='row'>
+					<div class="col-sm-4"><img class='illustration' src="{{ site.baseurl }}/images/modelo-estorninos.svg"></div>
+					<div class="col-sm-8">
+					<p><strong>Modelo Estorninos</strong>: (bottom-up) Acota su espacio de debate y de acción pero internamente posee mayor coordinación a través de líderes descentralizados y reconocidos por su trabajo empeñado, modo meritocrático. El método deliberativo no es impuesto por una votación y los acuerdos son consensos que integran todas las partes y a todos los miembros. La desencadenación de palabra-acción se torna más evidente y el desarrollo del grupo es autónomo y capaz de re-estructurarse sin procesos burocráticos.</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</li>

@@ -19,8 +19,7 @@ Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
 	* existen las condiciones sociales y culturales adecuadas para comenzar a articular espacios digitales de verdadera deliberación política
 	* la universidad debiese ser el lugar donde todo esto comience, debe instalarse como un modelo para el resto de la sociedad
 ---
-
-## los miedos y mitos del egovernment
+## Miedos y Mitos de la democracia electrónica
 * el sezgo en la representación
 	* sólo algunos son los que participan ya que no todos pueden aceptar el caracter y el formato de la discusión
 * expectativas demasiado altas
@@ -32,6 +31,20 @@ Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
 * exclusión digital
 * problemas de escala
 
+---
+## Componentes Básicos
+
+---
+## Condición Escencial: El espacio público
+
+---
+## Espacio Individual
+
+---
+## Espacio Colectivo
+
+---
+## Modelos de Democracia Digital 
 se distinguen cuatro instancias en la democracia
 el modelo democrático completo, sin hablar de mediafranca aún
 

@@ -3,7 +3,9 @@ layout: slides
 title: "MediaFranca: Una introducción"
 ---
 <!-- This space is intentionally left blank -->
+
 {% include division.html %}
+
 <div class='container tcenter'>
 	<h1 class='jumbo'><span>media</span>franca</h1>
 	<p class='bold'>Comisión Participación y Democracia PUCV</p>
@@ -25,7 +27,6 @@ title: "MediaFranca: Una introducción"
 </div>
 
 {% include division.html %}
-
 
 <div class='bk bk-black'>{% include back.html %}
 	<div class="container">
@@ -54,7 +55,7 @@ title: "MediaFranca: Una introducción"
 <div class='bk bk-white'>
 	<div class='container'>
 		<!-- marco teórico general: modelo mediafranca -->
-		<h2 class='title tcenter'>Componentes democráticos</h2>
+		<h2 class='title tcenter'>Componentes Básicos</h2>
 		<br><br>
 		<div class='row '>
 			<div class='col-sm-4 tcenter'>
@@ -107,7 +108,7 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title'>Modelos</h2>
+	<h2 class='title'>Modelos de Democracia Digital</h2>
 	<ul>
 		<li>Modelo plebiscitario directo</li>
 		<li>Modelo de redes sociales</li>
@@ -164,11 +165,35 @@ title: "MediaFranca: Una introducción"
 <div class='container'>
 <h2 class='title'>Preguntas Clave</h2>
 	<ul>
-		<li>¿cómo se origina la agenda ciudadana?</li>
-		<li>¿a quién se abre la participación?</li>
-		<li>¿cómo son los mecanismos deliberativos?</li>
-		<li>¿cómo se implementan los acuerdos?</li>
-		<li>¿cómo se fiscalizan?</li>
+		<li>¿cómo se origina la agenda ciudadana?
+		<ul>
+			<li>canales y mecanismos de publicación / ascripción</li>
+		</ul>
+		</li>
+		<li>¿a quién se abre la participación?
+		<ul>
+			<li>universo</li>
+			<li>plazos</li>
+		</ul>
+		</li>
+		<li>¿cómo son los mecanismos deliberativos?
+			<ul>
+				<li>reglas de relevancia / visibilidad</li>
+				<li>reglas de maleabilidad / reversibilidad</li>
+			</ul>
+			</li>
+		<li>¿cómo se implementan los acuerdos?
+			<ul>
+				<li>poder vinculante de la plataforma</li>
+				<li>nivel de involucramiento de la comunidad</li>
+			</ul>
+		</li>
+		<li>¿cómo se fiscalizan?
+			<ul>
+				<li>Registro público transparente</li>
+				<li>Suscripción a notificaciones y alarmas</li>
+			</ul>
+		</li>
 	</ul>
 </div>
 
@@ -180,27 +205,31 @@ title: "MediaFranca: Una introducción"
 		<h2 class='title'>Proyectos Similares</h2>
 		<div class="row">
 			<div class="col-md-6">
-				<ul class='small'>
+				<ul class='small'>			
 					<li><strong>BetterMeans</strong> (URL http://bettermeans.com/)</li>
 					<li><strong>Boston Citizens Connect</strong> (URL http://itunes.apple.com/cl/app/boston-citizens-connect/id330894558?mt=8)</li>
 					<li><strong>Change by Us</strong> (Local Projects, URL http://changeby.us/)</li>
+					<li><strong>Citizenspace</strong> (Delib Limited, URL https://www.citizenspace.com/info)</li>
 					<li><strong>Ciudad Viva</strong> (URL http://www.ciudadviva.cl/)</li>
 					<li><strong>ConvinceMe</strong> (URL http://www.convinceme.net/)</li>
 					<li><strong>D-CENT</strong> (URL http://dcentproject.eu/)</li>
 					<li><strong>Debategraph</strong> (URL http://debategraph.org/)</li>
 					<li><strong>Democracy OS</strong> (URL http://democracyos.org/)</li>
+					<li><strong>Dialogue-app</strong> (Delib Limited, URL http://dialogue-app.com/info/)</li>
 					<li><strong>Proyecto Estorninos</strong> (Joaquín Martel, Jaime Pérez Moena, URL http://estorninos.ead.pucv.cl)</li>
 					<li><strong>EveryBlock</strong> (URL http://www.everyblock.com/)</li>
 					<li><strong>FixMyStreet</strong> (URL http://www.fixmystreet.com/)</li>
 					<li><strong>GNU.Free</strong> (Free Software Foundation, URL http://www.jasonkitcat.com/dev/)</li>
 					<li><strong>Give a Minute</strong> (URL http://giveaminute.info/)</li>
-					<li><strong>MeetUp</strong> (URL http://www.meetup.com/)</li>
 		</ul></div>
 			<div class="col-md-6">
 				<ul class='small'>
+					<li><strong>MeetUp</strong> (URL http://www.meetup.com/)</li>
+					<li><strong>Mindmixer</strong> (URL http://www.mindmixer.com/)</li>
 					<li><strong>Neighborhood Notes</strong> (URL http://www.neighborhoodnotes.com/)</li>
 					<li><strong>Nueva Región, Cómo Vamos</strong> (URL http://www.losrioscomovamos.cl/)</li>
 					<li><strong>Open Ideo</strong> (Ideo, URL http://openideo.com/)</li>
+					<li><strong>PlaceSpeak</strong> (PlaceSpeak Inc., URL https://www.placespeak.com/)</li>
 					<li><strong>Pledge Bank</strong> (URL http://www.pledgebank.com/)</li>
 					<li><strong>PortoAlegre.cc</strong> (URL http://www.portoalegre.cc/)</li>
 					<li><strong>Projects for Public Spaces</strong> (URL http://www.pps.org/)</li>
