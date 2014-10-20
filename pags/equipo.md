@@ -9,6 +9,24 @@ active: equipo
 
 # {{ page.title }}
 
+
+<form role="form" action="http://getsimpleform.com/messages?form_api_token=5d10aa4f599a65850aa0de859b5330f5" method="post">
+<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+<input type='hidden' name='redirect_to' value='http://mediafranca.github.io/pags/gracias' />
+<!-- all your input fields here.... -->
+<div class="form-group">
+	<label for="name1" class="control-label">Nombre</label>
+	<input type="text" class="form-control" id='name1' name='name' placeholder="tu nombre y apellido, por favor">
+
+</div>
+<div class="form-group">
+	<label for="message1" class="control-label">Mensaje</label>
+	<textarea id='message1' name='message' class='form-control' placeholder='cuéntanos...'></textarea>
+	<input type='submit' id='' class='btn btn-primary' value='Enviar'>
+</div>
+</form>
+
+
 <div class='row'>
 	<div class='col-md-4'>
 		<div class='well'>

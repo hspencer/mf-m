@@ -5,9 +5,9 @@ title: "MediaFranca: Una introducción"
 <!-- This space is intentionally left blank -->
 {% include division.html %}
 <div class='container tcenter'>
-	<h1 class='jumbo'>mediafranca</h1>
+	<h1 class='jumbo'><span>media</span>franca</h1>
 	<p class='bold'>Comisión Participación y Democracia PUCV</p>
-	<div class='row'>
+	<div class='row' style='margin: 200px 0 0 20px;'>
 	<div class='bio col-md-4 col-md-offset-2'>
 		<h4>Herbert Spencer</h4>
 		<span class='label label-primary'><a href="http://twitter.com/hspencer"><i class='fa fa-twitter'></i> @hspencer</a></span>
