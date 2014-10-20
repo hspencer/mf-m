@@ -48,6 +48,41 @@ Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
 se distinguen cuatro instancias en la democracia
 el modelo democrático completo, sin hablar de mediafranca aún
 
+---
+### Modelo plebiscitario directo 
+
+---
+### Modelo de redes sociales
+
+---
+### Modelo de medición de opinión pública
+
+---
+### Modelo inclusivo deliberativo
+
+---
+## Condiciones
+* acceso a información balanceada
+* agenda abierta
+* tiempo adecuado para tratar temas (definir plazos)
+* sin manipulación ni cohersión
+* participación inclusiva
+* libertad de asociación e interacción
+* reconocimiento de la diversidad
+
+---
+## Preguntas Clave
+
+---
+## Proyectos Similares
+
+---
+<div class="tcenter">
+	<div class="well">fin</div>	
+</div>
+
+Estas notas hay que ordenarlas y redistribuirlas
+
 * publicación
 * conversación
 * deliberación
