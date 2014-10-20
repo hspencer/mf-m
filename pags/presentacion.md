@@ -3,11 +3,13 @@ layout: slides
 title: "MediaFranca: Una introducción"
 ---
 <!-- This space is intentionally left blank -->
+
 {% include division.html %}
+
 <div class='container tcenter'>
-	<h1 class='jumbo'>MediaFranca</h1>
+	<h1 class='jumbo'><span>media</span>franca</h1>
 	<p class='bold'>Comisión Participación y Democracia PUCV</p>
-	<div class='row air-vertical-jumbo'>
+	<div class='row' style='margin: 200px 0 0 20px;'>
 	<div class='bio col-md-4 col-md-offset-2'>
 		<h4>Herbert Spencer</h4>
 		<span class='label label-primary'><a href="http://twitter.com/hspencer"><i class='fa fa-twitter'></i> @hspencer</a></span>
@@ -20,30 +22,16 @@ title: "MediaFranca: Una introducción"
 	</div>
 </div>
 	<small class='blue'>
-		<i class='fa fa-keyboard-o fa-2x'></i> usa las flechas del teclado 
-		<span class="fa-stack">
-			<i class="fa fa-square-o fa-stack-2x"></i>
-			<i class="fa fa-long-arrow-left fa-stack-1x"></i>
-		</span>
-		<span class="fa-stack">
-			<i class="fa fa-square-o fa-stack-2x"></i>
-			<i class="fa fa-long-arrow-right fa-stack-1x"></i>
-		</span>
-		para navegar esta presentación.
+		<i class='fa fa-keyboard-o fa-2x'></i> usa las flechas del teclado <i class="fa fa-arrow-left"></i> <i class="fa fa-arrow-right"></i> para navegar esta presentación.
 	</small>
 </div>
 
 {% include division.html %}
 
-<div class='bk bk-black'>
-	<div class='container'>
-		<!-- la motivaciones -->
-		<h2 class='title'>¿Por qué?</h2>
-		<ul>
-			<li>El diseño de la polis y de las herramientas democráticas representan la más alta instancia para el oficio (del diseño)</li>
-			<li>porque el paradigma de gobernabilidad por representación deja de tener sentido en la era de la información que tiende a la des-intermediación</li>
-			<li>porque la comunidad tiene propuestas e ideas constructivas y el actual sistema no ofrece formas para canalizar estos aportes</li>
-		</ul>
+<div class='bk bk-black'>{% include back.html %}
+	<div class="container">
+		<h2 class='title'>¿por qué?</h2>
+		<img class='illustration' src="{{ site.baseurl }}/images/meta-diseno.svg">
 	</div>
 </div>
 
@@ -67,7 +55,7 @@ title: "MediaFranca: Una introducción"
 <div class='bk bk-white'>
 	<div class='container'>
 		<!-- marco teórico general: modelo mediafranca -->
-		<h2 class='title tcenter'>Componentes democráticos</h2>
+		<h2 class='title tcenter'>Componentes Básicos</h2>
 		<br><br>
 		<div class='row '>
 			<div class='col-sm-4 tcenter'>
@@ -91,24 +79,13 @@ title: "MediaFranca: Una introducción"
 
 {% include division.html %}
 
-<div class='bk bk-white'>
+<div class='bk bk-black'>
 	<div class='container'>
-		<h2 class='title tcenter'>Modelo de la interacción democrática</h2>
-		<br><br>
 		<div class='row '>
-			<div class='col-sm-6'>
-				<h3 class='title'>Discurso</h3>
-				<ul>
-					<li>Personal</li>
-					<li>Colectivo</li>
-				</ul>
-			</div>
-			<div class='col-sm-6'>
-				<h3 class='title'>Espacio</h3>
-				<ul>
-					<li>Divergente</li>
-					<li>Convergente</li>
-				</ul>
+			<div class='col-sm-12 tcenter'>
+				<div class='circle-big'><div class='text'>Es necesario que el espacio digital pueda constituirse como esfera pública con el estatuto de <strong>espacio público</strong></div></div>
+				<br>
+				<p>Patrimonio del "nosotros" y sometido a los acuerdos de nuestro debate, el <em>aire libre de la polis</em>.</p>
 			</div>
 		</div>
 	</div>
@@ -117,31 +94,21 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Discurso personal</h2>
+	<h2 class='title tcenter'>Espacio individual</h2>
+	<img class='illustration now90' src="{{ site.baseurl }}/images/modelos-experiencias-esp-individual.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Discurso colectivo</h2>
+	<h2 class='title tcenter'>Espacio colectivo</h2>
+	<img class='illustration now90' src="{{ site.baseurl }}/images/modelos-experiencias-esp-colectivo.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Espacio divergente</h2>
-</div>
-
-{% include division.html %}
-
-<div class='container'>
-	<h2 class='title tcenter'>Espacio convergente</h2>
-</div>
-
-{% include division.html %}
-
-<div class='container'>
-	<h2 class='title'>Modelos</h2>
+	<h2 class='title'>Modelos de Democracia Digital</h2>
 	<ul>
 		<li>Modelo plebiscitario directo</li>
 		<li>Modelo de redes sociales</li>
@@ -153,29 +120,29 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title tcenter'>Modelo plebiscitario directo</h3>
-	<img src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
+	<h2 class='title tcenter'>Modelo plebiscitario directo</h2>
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title tcenter'>Modelo de redes sociales</h3>
-	<img src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
+	<h2 class='title tcenter'>Modelo de redes sociales</h2>
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title tcenter'>Modelo de medición de opinión pública</h3>
-	<img src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
+	<h2 class='title tcenter'>Modelo de medición de opinión pública</h2>
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title tcenter'>Modelo inclusivo deliberativo</h3>
-	<img src="{{ site.baseurl }}/images/modelo-democracia-m4.svg">
+	<h2 class='title tcenter'>Modelo inclusivo deliberativo</h2>
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m4.svg">
 </div>
 
 {% include division.html %}
@@ -198,30 +165,95 @@ title: "MediaFranca: Una introducción"
 <div class='container'>
 <h2 class='title'>Preguntas Clave</h2>
 	<ul>
-		<li>¿cómo se origina la agenda ciudadana?</li>
-		<li>¿a quién se abre la participación?</li>
-		<li>¿cómo son los mecanismos deliberativos?</li>
-		<li>¿cómo se implementan los acuerdos?</li>
-		<li>¿cómo se fiscalizan?</li>
+		<li>¿cómo se origina la agenda ciudadana?
+		<ul>
+			<li>canales y mecanismos de publicación / ascripción</li>
+		</ul>
+		</li>
+		<li>¿a quién se abre la participación?
+		<ul>
+			<li>universo</li>
+			<li>plazos</li>
+		</ul>
+		</li>
+		<li>¿cómo son los mecanismos deliberativos?
+			<ul>
+				<li>reglas de relevancia / visibilidad</li>
+				<li>reglas de maleabilidad / reversibilidad</li>
+			</ul>
+			</li>
+		<li>¿cómo se implementan los acuerdos?
+			<ul>
+				<li>poder vinculante de la plataforma</li>
+				<li>nivel de involucramiento de la comunidad</li>
+			</ul>
+		</li>
+		<li>¿cómo se fiscalizan?
+			<ul>
+				<li>Registro público transparente</li>
+				<li>Suscripción a notificaciones y alarmas</li>
+			</ul>
+		</li>
 	</ul>
 </div>
 
 {% include division.html %}
 
 <div class='bk bk-white'>
+	{% include back.html %}
 	<div class='container h90'>
-		<h2 class='title tcenter'>Investigación</h2>
-		<img src="{{ site.baseurl }}/images/mapa-agrupacion.svg">
+		<h2 class='title'>Proyectos Similares</h2>
+		<div class="row">
+			<div class="col-md-6">
+				<ul class='small'>			
+					<li><strong>BetterMeans</strong> (URL http://bettermeans.com/)</li>
+					<li><strong>Boston Citizens Connect</strong> (URL http://itunes.apple.com/cl/app/boston-citizens-connect/id330894558?mt=8)</li>
+					<li><strong>Change by Us</strong> (Local Projects, URL http://changeby.us/)</li>
+					<li><strong>Citizenspace</strong> (Delib Limited, URL https://www.citizenspace.com/info)</li>
+					<li><strong>Ciudad Viva</strong> (URL http://www.ciudadviva.cl/)</li>
+					<li><strong>ConvinceMe</strong> (URL http://www.convinceme.net/)</li>
+					<li><strong>D-CENT</strong> (URL http://dcentproject.eu/)</li>
+					<li><strong>Debategraph</strong> (URL http://debategraph.org/)</li>
+					<li><strong>Democracy OS</strong> (URL http://democracyos.org/)</li>
+					<li><strong>Dialogue-app</strong> (Delib Limited, URL http://dialogue-app.com/info/)</li>
+					<li><strong>Proyecto Estorninos</strong> (Joaquín Martel, Jaime Pérez Moena, URL http://estorninos.ead.pucv.cl)</li>
+					<li><strong>EveryBlock</strong> (URL http://www.everyblock.com/)</li>
+					<li><strong>FixMyStreet</strong> (URL http://www.fixmystreet.com/)</li>
+					<li><strong>GNU.Free</strong> (Free Software Foundation, URL http://www.jasonkitcat.com/dev/)</li>
+					<li><strong>Give a Minute</strong> (URL http://giveaminute.info/)</li>
+		</ul></div>
+			<div class="col-md-6">
+				<ul class='small'>
+					<li><strong>MeetUp</strong> (URL http://www.meetup.com/)</li>
+					<li><strong>Mindmixer</strong> (URL http://www.mindmixer.com/)</li>
+					<li><strong>Neighborhood Notes</strong> (URL http://www.neighborhoodnotes.com/)</li>
+					<li><strong>Nueva Región, Cómo Vamos</strong> (URL http://www.losrioscomovamos.cl/)</li>
+					<li><strong>Open Ideo</strong> (Ideo, URL http://openideo.com/)</li>
+					<li><strong>PlaceSpeak</strong> (PlaceSpeak Inc., URL https://www.placespeak.com/)</li>
+					<li><strong>Pledge Bank</strong> (URL http://www.pledgebank.com/)</li>
+					<li><strong>PortoAlegre.cc</strong> (URL http://www.portoalegre.cc/)</li>
+					<li><strong>Projects for Public Spaces</strong> (URL http://www.pps.org/)</li>
+					<li><strong>Seeclickfix</strong> (URL http://www.seeclickfix.com)</li>
+					<li><strong>Tactical Tech</strong> (URL http://www.tacticaltech.org/)</li>
+					<li><strong>Urbanology Online</strong> (Fundación Guggenheim, BMW, URL http://www.bmwguggenheimlab.org/urbanologyonline)</li>
+					<li><strong>Ushahidi</strong> (URL http://www.ushahidi.com/)</li>
+					<li><strong>Vote Stream</strong> (Trust the Vote, URL http://votestream.trustthevote.org/)</li>
+					<li><strong>Ziudad</strong> (URL http://www.ziudad.es/)</li>
+				</ul>
+			</div>
+		</div>
+
 	</div>
 </div>
-
 {% include division.html %}
 
-<div class='container'>
-	<div class='vcenter'>
-		<div class='tcenter w100'>
-			disponible en:<br>
-			<strong>http://mediafranca.github.io/fundamentos</strong>
-		</div>
-	</div >
+<div class='bk bk-black'>
+	<div class='container'>
+		<div class='vcenter'>
+			<div class='tcenter w100'>
+				disponible en:<br>
+				<strong>http://mediafranca.github.io/fundamentos</strong>
+			</div>
+		</div >
+	</div>	
 </div>
