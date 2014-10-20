@@ -78,13 +78,13 @@ title: "MediaFranca: Una introducción"
 
 {% include division.html %}
 
-<div class='bk bk-balck'>
+<div class='bk bk-black'>
 	<div class='container'>
 		<div class='row '>
 			<div class='col-sm-12 tcenter'>
 				<div class='circle-big'><div class='text'>Es necesario que el espacio digital pueda constituirse como esfera pública con el estatuto de <strong>espacio público</strong></div></div>
 				<br>
-				<p>Patrimonio del "nosotros" y sometido a los acuerdos de nuestro debate. Aire libre de la polis.</p>
+				<p>Patrimonio del "nosotros" y sometido a los acuerdos de nuestro debate, el <em>aire libre de la polis</em>.</p>
 			</div>
 		</div>
 	</div>

@@ -53,7 +53,7 @@ active: equipo
 		Chile
 		</address>
 
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d428084.6023698142!2d-71.62036100000003!3d-33.045646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9689e752e7a12077%3A0xa74fc411fd5526d3!2sManuel+Antonio+Matta+12%2C+Vi%C3%B1a+del+Mar%2C+Valpara%C3%ADso!5e0!3m2!1ses-419!2scl!4v1413819420129" width="100%" height="250" frameborder="0" style="border:0"></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d428084.6023698142!2d-71.62036100000003!3d-33.045646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9689e752e7a12077%3A0xa74fc411fd5526d3!2sManuel+Antonio+Matta+12%2C+Vi%C3%B1a+del+Mar%2C+Valpara%C3%ADso!5e0!3m2!1ses-419!2scl!4v1413819420129" width="100%" height="248" frameborder="0" style="border:0"></iframe>
 	</div>
 	<div class="col-sm-6">
 		<form role="form" action="http://getsimpleform.com/messages?form_api_token=5d10aa4f599a65850aa0de859b5330f5" method="post">
