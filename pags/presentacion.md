@@ -78,51 +78,16 @@ title: "MediaFranca: Una introducción"
 
 {% include division.html %}
 
-<div class='bk bk-white'>
-	<div class='container'>
-		<h2 class='title tcenter'>Modelo de la interacción democrática</h2>
-		<br><br>
-		<div class='row '>
-			<div class='col-sm-6'>
-				<h3 class='title'>Discurso</h3>
-				<ul>
-					<li>Personal</li>
-					<li>Colectivo</li>
-				</ul>
-			</div>
-			<div class='col-sm-6'>
-				<h3 class='title'>Espacio</h3>
-				<ul>
-					<li>Divergente</li>
-					<li>Convergente</li>
-				</ul>
-			</div>
-		</div>
-	</div>
+<div class='container'>
+	<h2 class='title tcenter'>Espacio individual</h2>
+	<img class='illustration now90' src="{{ site.baseurl }}/images/modelos-experiencias-esp-individual.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Discurso personal</h2>
-</div>
-
-{% include division.html %}
-
-<div class='container'>
-	<h2 class='title tcenter'>Discurso colectivo</h2>
-</div>
-
-{% include division.html %}
-
-<div class='container'>
-	<h2 class='title tcenter'>Espacio divergente</h2>
-</div>
-
-{% include division.html %}
-
-<div class='container'>
-	<h2 class='title tcenter'>Espacio convergente</h2>
+	<h2 class='title tcenter'>Espacio colectivo</h2>
+	<img class='illustration now90' src="{{ site.baseurl }}/images/modelos-experiencias-esp-colectivo.svg">
 </div>
 
 {% include division.html %}
@@ -140,28 +105,28 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title tcenter'>Modelo plebiscitario directo</h3>
+	<h2 class='title tcenter'>Modelo plebiscitario directo</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title tcenter'>Modelo de redes sociales</h3>
+	<h2 class='title tcenter'>Modelo de redes sociales</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title tcenter'>Modelo de medición de opinión pública</h3>
+	<h2 class='title tcenter'>Modelo de medición de opinión pública</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h3 class='title tcenter'>Modelo inclusivo deliberativo</h3>
+	<h2 class='title tcenter'>Modelo inclusivo deliberativo</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m4.svg">
 </div>
 
@@ -194,15 +159,6 @@ title: "MediaFranca: Una introducción"
 </div>
 
 {% include division.html %}
-
-<div class='bk bk-white'>
-	<div class='container h90'>
-		<h2 class='title tcenter'>Investigación</h2>
-		<img src="{{ site.baseurl }}/images/mapa-agrupacion.svg">
-	</div>
-</div>
-
-----
 
 <div class='bk bk-white'>
 	{% include back.html %}
@@ -256,6 +212,5 @@ title: "MediaFranca: Una introducción"
 				<strong>http://mediafranca.github.io/fundamentos</strong>
 			</div>
 		</div >
-</div>	
-
+	</div>	
 </div>
