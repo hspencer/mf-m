@@ -11,32 +11,39 @@ active: equipo
 	
 
 </div>
-<p>Queremos que este equipo crezca. Buscamos construir esta plataforma con un sentido público y para eso necesitamos que te sumes como persona y organización.</p>
+<p>Queremos que este equipo crezca. Buscamos construir esta plataforma con un sentido público y para eso necesitamos que te sumes como organización o persona.</p>
 
 <div class='row personas'>
 	<div class='col-md-3 tcenter'>
 		<img src="{{ site.baseurl }}/images/bio-nn.svg">
 		<strong>(Tú)</strong><br>
-		<p class='small'>Ciudadano de la Polis</p>
+		<p>Colaborador</p>
+			<p class="small">Ideas, desarrollo, infraestructura, contenidos, etc.</p>
 	</div>
 	<div class='col-md-3 tcenter'>
-		<img src="{{ site.baseurl }}/images/bio-hspencer.svg">
+		<img src="{{ site.baseurl }}/images/bio-hspencer.jpg">
 		<strong>Herbert Spencer</strong><br>
-		<p class='small'>Diseñador</p>
+		<p>Diseñador
+			<p class='small'>Profesor e[ad]<br>Mg en Diseño de Interacción</p>
+		</p>
 	</div>
 	<div class='col-md-3 tcenter'>
-		<img src="{{ site.baseurl }}/images/bio-pancho.svg">
+		<img src="{{ site.baseurl }}/images/bio-pancho.jpg">
 		<strong>Francisco Vera</strong><br>
-		<p class='small'>Diseñador</p>
+		<p>Diseñador
+		<p class='small'>Jefe de Diseño<br>AyerViernes</p>
+	</p>
 	</div>
 	<div class='col-md-3 tcenter'>
-		<img src="{{ site.baseurl }}/images/bio-moya.svg">
+		<img src="{{ site.baseurl }}/images/bio-moya.jpg">
 		<strong>Rodrigo Moya</strong><br>
-		<p class='small'>Programador</p>
+		<p>Programador
+		<p class='small'>Desarrollador de Software<br>CitiSent y PatagonicLabs</p>
+		</p>
 	</div>
 </div>
 
-<div class="row">
+<div class="row air-top">
 	<div class="col-sm-6">
 		<h4>Escríbenos</h4>
 		<address>TIG<br>Taller de Investigaciones Gráficas
@@ -53,16 +60,16 @@ active: equipo
 <!-- all your input fields here.... -->
 <div class="form-group">
 	<label for="name1" class="control-label">Nombre</label>
-	<input type="text" class="form-control" id='name1' name='name' placeholder="tu nombre y apellido, por favor">
+	<input type="text" class="form-control" id='name1' name='name' placeholder="tu nombre y apellido">
 
 </div>
 <div class="form-group">
 	<label for="message1" class="control-label">Mensaje</label>
 	<textarea id='message1' name='message' class='form-control' placeholder='...' rows='10'></textarea>
 </div>
-<input type='submit' id='' class='btn btn-primary' value='Enviar'>
+<input type='submit' id='' class='btn btn-primary pull-right' value='Enviar'>
 </form>
 	</div>
 </div>
-<h4>Contáctanos</h4>
+
 

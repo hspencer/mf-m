@@ -247,16 +247,19 @@ align-items: center;
 
 .personas{
 	background-color: #f9fffc;
-
 	padding: 2em 0;
 	margin: 1em 0;
 	img{
-		.longShadowBox(30, @brand-primary);
-		opacity: 50%;
 		display: block;
+		.longShadowBox(30, @brand-primary);
+		.size(200px, 200px);
 		.img-circle;
-		width: 70%;
 		height: auto;
 		margin: 1em auto;
+	}
+	p{margin: 0}
+	p.small{
+		font-weight: bolder;
+		font-size: 14px;
 	}
 }

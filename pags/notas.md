@@ -3,9 +3,12 @@ layout: standard
 title: Notas de la Presentación
 active: notas
 ---
-# Notas 
+# Notas de la Presentación
+Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
+[Comisión Participación y Democracia](http://comisionparticipacionydemocracia.ucv.cl/)<br>
 [<i class='fa fa-arrow-left'></i> atras]( {{ site.baseurl }}/ )
 
+---
 ## ¿Por qué?
 * ¿por qué desde el diseño? o ¿por qué diseñadores vienen a hablar de plataformas democráticas?
 * nuestra aproximación es en órdenes de magnitud
@@ -15,6 +18,7 @@ active: notas
 * También porue el momento histórico para construir nuevas formas de deliberación facilitadas por la tecnología es ahora:
 	* existen las condiciones sociales y culturales adecuadas para comenzar a articular espacios digitales de verdadera deliberación política
 	* la universidad debiese ser el lugar donde todo esto comience, debe instalarse como un modelo para el resto de la sociedad
+---
 
 ## los miedos y mitos del egovernment
 * el sezgo en la representación
