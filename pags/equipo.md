@@ -7,7 +7,24 @@ active: equipo
 	{% include nav-pages.html %}
 </div>
 
-# {{ page.title }}
+<div class="air-vertical-jumbo"></div>
+Somos un pequeño grupo de entusiastas que hemos logrado articular al alero del Taller de Investigaciones Gráficas (TIG) de la e[ad] Escuela de Arquitectura y Diseño gracias. Buscamos ampliar el equipo y 
+
+
+<div class='row'>
+	<div class='col-md-4 tcenter'>
+		<strong>Prof. Herbert Spencer</strong><br>
+		<p class='small'>Diseñador de Interacción</p>
+	</div>
+	<div class='col-md-4 tcenter'>
+		<strong>Francisco Vera</strong><br>
+		<p class='small'>Diseñador de Interfaz</p>
+	</div>
+	<div class='col-md-4 tcenter'>
+		<strong>Rodrigo Moya</strong><br>
+		<p class='small'>Desarrollador</p>
+	</div>
+</div>
 
 
 <form role="form" action="http://getsimpleform.com/messages?form_api_token=5d10aa4f599a65850aa0de859b5330f5" method="post">
@@ -22,31 +39,6 @@ active: equipo
 <div class="form-group">
 	<label for="message1" class="control-label">Mensaje</label>
 	<textarea id='message1' name='message' class='form-control' placeholder='cuéntanos...'></textarea>
-	<input type='submit' id='' class='btn btn-primary' value='Enviar'>
 </div>
+<input type='submit' id='' class='btn btn-primary' value='Enviar'>
 </form>
-
-
-<div class='row'>
-	<div class='col-md-4'>
-		<div class='well'>
-			<h3>Herbert Spencer</h3>
-			<span class='label label-primary'><a href="http://twitter.com/hspencer"><i class='fa fa-twitter'></i> @hspencer</a></span>
-			<p class='air-top'>Diseñador de Interacción y Profesor de Diseño, e[ad] Escuela de Arquitectura y Diseño PUCV</p>
-		</div>
-	</div>
-	<div class='col-md-4'>
-		<div class='well'>
-			<h3>Francisco Vera</h3>
-			<span class='label label-primary'><a href="http://twitter.com/pancho_vm"><i class='fa fa-twitter'></i> @pancho_vm</a></span>
-			<p class='air-top'>Diseñador e[ad] Escuela de Arquitectura y Diseño PUCV, Jefe de Diseño en AyerViernes</p>
-		</div>
-	</div>
-	<div class='col-md-4'>
-		<div class='well'>
-			<h3>Rodrigo Moya</h3>
-			<span class='label label-primary'><a href="http://twitter.com/rodrigomoya"><i class='fa fa-twitter'></i> @rodrigomoya</a></span>
-			<p class='air-top'>Arquitecto de Software y Desarrollador independiente</p>
-		</div>
-	</div>
-</div>
