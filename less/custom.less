@@ -244,3 +244,19 @@ align-items: center;
 	.longShadowLoop(@shadowString, @size - 1);
 	.longShadowBox(@color, @size - 1, @spread, @flag + 1, @ends);
 }
+
+.personas{
+	background-color: #f9fffc;
+
+	padding: 2em 0;
+	margin: 1em 0;
+	img{
+		.longShadowBox(30, @brand-primary);
+		opacity: 50%;
+		display: block;
+		.img-circle;
+		width: 70%;
+		height: auto;
+		margin: 1em auto;
+	}
+}
