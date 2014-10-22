@@ -150,13 +150,14 @@ title: "MediaFranca: Una introducción"
 <div class='container'>
 <h2 class='title'>Condiciones</h2>
 	<ul>
-		<li>acceso a información balanceada</li>
-		<li>agenda abierta</li>
-		<li>tiempo adecuado para tratar temas (definir plazos)</li>
-		<li>sin manipulación ni cohersión</li>
-		<li>participación inclusiva</li>
-		<li>libertad de asociación e interacción</li>
-		<li>reconocimiento de la diversidad</li>
+		<li>Acceso a información balanceada</li>
+		<li>Agenda abierta</li>
+		<li>Plataforma reglamentada</li>
+		<li>Tiempo adecuado para tratar temas</li>
+		<li>Sin manipulación ni cohersión</li>
+		<li>Participación inclusiva</li>
+		<li>Libertad de asociación e interacción</li>
+		<li>Reconocimiento de la diversidad</li>
 	</ul>
 </div>
 
