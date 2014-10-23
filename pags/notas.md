@@ -11,18 +11,19 @@ Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
 ---
 ## ¿Por qué?
 * ¿por qué desde el diseño? o ¿por qué diseñadores vienen a hablar de plataformas democráticas?
-* nuestra aproximación es en órdenes de magnitud
-* el diseño para la democracia constituye la más alta instancia del diseño en su sentido público (metadiseño)
-* el diseño tiene un sentido prescriptivo; dice _cómo deben ser las cosas_ y por tal condición es político, ya que construye la forma física de la polis
-* y en esa forma física, queda plasmada nuestro modo de ser y nuestra cultura. Nos vemos a través de nuestras obras, de nuestros logros 
+	* nuestra aproximación es en órdenes de magnitud:
+	* desde la letra, la comunicación, los objetos, la producción, las interacciones, los espacios y las organizaciones
+	* el diseño para la democracia constituye la más alta instancia del diseño en su sentido público (metadiseño)
+* el diseño tiene un sentido prescriptivo; dice _cómo deben ser las cosas_ y por tal condición, *es político*, ya que construye la forma física de la polis. 
+* Es la materialización de los principios y creencias; en esa forma física, queda plasmado nuestro modo de ser
 * También porue el momento histórico para construir nuevas formas de deliberación facilitadas por la tecnología es ahora:
 	* existen las condiciones sociales y culturales adecuadas para comenzar a articular espacios digitales de verdadera deliberación política
 	* la universidad debiese ser el lugar donde todo esto comience, debe instalarse como un modelo para el resto de la sociedad
 ---
 ## Miedos y Mitos de la democracia electrónica (En el contexto de la Universidad)
 * **Sezgo en la representación**
-	* Se teme que los participantes no logren representar todas las aristas de la comunidad, pero en el caso de la universidad, tales representantes ya existen y son electos por las mismas agrupaciones
-	* Sólo algunos son los que participan ya que no todos pueden aceptar el caracter y el formato de la discusión
+	* Se teme que tales plataformas digitales no logren involucrar a toda la comunidad
+		* En la realidad sólo algunos participan. Una plaraforma digital tiende a amplir la comvocatoria por su caracter asincrónico y ubicuo.
 * **Expectativas demasiado altas**
 	* Se teme que los participantes demanden un poder de decisión mayor al concedido. Sin embargo, ya está definido en estatutos anteriores el grado de profundización que puede llegar a tener cada comunidad en la institución, por otra parte, las reglas definidas en la plataforma orientan la participación hacia una democracia representativa y no hacia una directa
 	* al ofrecer un nuevo canal de participación, las personas pueden creer que alguien se hará cargo de sus inquitudes de forma directa y transparente, sin considerar la masa que interactúa y que vuelve relevante los aportes en proporción. 
@@ -39,19 +40,18 @@ Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
 ## Componentes Básicos
 
 * **Información**
-	* Acceso a información balanceada
-		* Información accesible desde distintos soportes y expresada en términos comprensibles para todos los grupos. Un discurso humanizado
 	* Agenda abierta
-	* La palestra debe construirse por las inquietudes de la comunidad y las urgencias del contexto. El debate sobre las decisiones
+	* Acceso a información balanceada, provienente de todos los puntos de vista participantes, libre de censura previa
+	* Información accesible desde distintos soportes y expresada en términos comprensibles para todos los grupos (Un discurso humanizado)
 * **Reglas del Juego**
-	* Reglas conocidas y transparentes (sin oscuros algoritmos de relevancia u otros), además de fácilmente verificables
+	* Reglas conocidas y transparentes (sin oscuros algoritmos de relevancia, por ej.), además de fácilmente verificables
 	* Las reglas mismas deben estar sometidas a revisión
 	* Tiempo adecuado para tratar temas (definir plazos)
-		* Las discusiones infinitas deben controlarse y dirigirse hacia instancias deliberativas donde existen responsables
-	* Libre de manipulación ni cohersión
+		* Las discusiones infinitas deben controlarse, apoyándose en mecanismos que tiendan a converger en deliberación
+	* La plataforma debe ser libre de manipulación ni cohersión
 * **Plataforma**
 	* Participación inclusiva
-		* Todos los integrantes deben tener el espacio y las herramientas para ser partícipes de todas las instancias democráticas. No existen privilegios previos pero sí se deben seleccionar a los representantes de cada grupo social
+		* Todos los integrantes deben tener el espacio y las herramientas para ser partícipes de todas las instancias democráticas, independiente de los roles que puedan definirse de antemano (autoridad, representante, legislador, ejecutivo, etc.)
 	* Libertad de asociación e interacción
 		* Permitir el dialogo entre ciudadano-gobierno y ciudadano-ciudadano
 	* Reconocimiento de la diversidad
@@ -94,31 +94,29 @@ el modelo democrático completo, sin hablar de mediafranca aún
 ---
 ### Modelo de medición de opinión pública
 * Se observa el comportamiento de los grupos involucrados y, usualmente a través de encuestas y sondeos, se reafirman concepciones. La formulación de la consulta suele estar cargada de ideologías políticas. 
-* **Ejemplo:** La diputada Andrea Molina esta realizando encuesta en el distrito 10 pero muchas preguntas están formuladas con prejuicios
-
+* **Ejemplos:** 
+	* (desde la autoridad) La diputada Andrea Molina está realizando encuesta en el distrito 10 pero muchas preguntas están formuladas con prejuicios
+	* (desde privados) existen muchas herramientas para monitorear redes sociales, herramientas apoyadas en algoritmos lingüísticos de procesamiento de lenguage natural
 ---
 ### Modelo plebiscitario directo
 * Las agenda pública se define dentro de la institucionalidad y la ciudadanía solo es parte de una etapa deliberativa que aprueba o desaprueba lo propuesto. En este modelo se pone en duda la presencia de la voz ciudadana, ya que las entidades que transmiten las necesidades de este cuerpo son invisibles y no electas sobre el modelo *bottom-up**
-* **Ejemplo:** El quinto poder, Constitución Islandesa del 2009. Posterior a la crisis financiera
+* **Ejemplo:** 
+	* El quinto poder
+	* Constitución Islandesa del 2009 Posterior a la crisis financiera
 
 ---
 ### Modelo inclusivo deliberativo
 * Los grupos sociales son actores políticos activos y se involucran en todas las instancias democrácticas, la agenda pública se define a partir de la expresion ciudadana. Se piensan todos los espacios de participación democrática desde la ciudadanía
 * **Ejemplos cercanos:** 
-** DemocracyOS es una plataforma para el dialogo y la deliberación de una agenda ciudadana, acotada por ciudad
-** Fundación ciudadano inteligente (Hay acuerdo, Congreso abierto), Emprendimiento civil que ha desarrollado plataformas de seguimiento a la actividad gubernamental, pero no es un canal oficial y recoge por cuenta propia la voz ciudadana y el hacer del Estado 
-
+	* DemocracyOS es una plataforma para el dialogo y la deliberación de una agenda ciudadana, acotada por ciudad
+	* Fundación ciudadano inteligente (Hay acuerdo, Congreso abierto), Emprendimiento civil que ha desarrollado plataformas de seguimiento a la actividad gubernamental, pero no es un canal oficial y recoge por cuenta propia la voz ciudadana y el hacer del Estado 
 ---
-## Preguntas Clave
-
----
-## ¿Cómo avanza la Universidad?
-* qué partes son las prioritarias
-* definir un horizonte a futuro
-	* que la universidad sirva de modelo
-	* incorpore en el ADN
-* la misión de la universidad es construir un modelo (testimonio a la ciudadanía)
-
+## ¿Cómo avanzamos en la Universidad?
+* Ofrecemos nuestro proyecto y nos ponemos a disposición de la comisión para el desarrollo de una plataforma inclusiva-deliberativa construída con los principios aquí expuestos
+* Pensamos que es altamente abordable y que podemos escalarlo orgánicamente, a partir de definir qué partes son las prioritarias
+* Hacer una plataforma de deliberación democrática es hacer Universidad
+	* La Universidad debe servir de modelo para el resto de la sociedad, un "testimonio de polis"
+* ¿Hagámoslo?
 ---
 ## Proyectos Similares
 * Existen muchas experiencias, en su mayoría emprendimientos civiles. Algunos emprendimientos privados como apoyo a empresas y organizaciones
