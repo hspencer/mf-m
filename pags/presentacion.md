@@ -43,7 +43,6 @@ title: "MediaFranca: Una introducción"
 	<ul>
 		<li>Sezgo en la representación
 			<ul>
-				<li>El perfil de los participantes de las plataformas digitales puede ser sezgado</li>
 				<li>Plataforma no inclusiva o universal por problemas de diseño o lenguaje (usabilidad)</li>
 			</ul>
 		</li>
@@ -54,8 +53,7 @@ title: "MediaFranca: Una introducción"
 		</li>
 		<li>Apatía
 			<ul>
-				<li>No seguir el desarrollo de los temas en el tiempo</li>
-				<li>Pérdida de interés en el canal mismo como medio de participación</li>
+				<li>Pérdida paulatina de interés en el canal mismo como medio de participación</li>
 			</ul>
 		</li>
 		<li>Falta de educación cívica</li>
@@ -69,7 +67,6 @@ title: "MediaFranca: Una introducción"
 			<ul>
 				<li>Elección de tecnologías apropiadas</li>
 				<li>Asincronisidad extrema en el proceso deliberativo</li>
-				<li>Construcción de <em>esferas individuales de relevancia</em></li>
 			</ul>
 		</li>
 	</ul>
@@ -94,7 +91,7 @@ title: "MediaFranca: Una introducción"
 				<p>procedimientos consensuados</p>
 			</div>
 			<div class='col-sm-4 tcenter'>
-				<div class='circle'>plataformas</div>
+				<div class='circle'>plataforma</div>
 				<br>
 				<p>espacios y herramientas</p>
 			</div>
@@ -108,9 +105,9 @@ title: "MediaFranca: Una introducción"
 	<div class='container'>
 		<div class='row '>
 			<div class='col-sm-12 tcenter'>
-				<div class='circle-big'><div class='text'>Es necesario que el espacio digital pueda constituirse como esfera pública con el estatuto de <strong>espacio público</strong></div></div>
-				<br>
-				<p>Patrimonio del "nosotros" y sometido a los acuerdos de nuestro debate, el <em>aire libre de la polis</em>.</p>
+				<div class='circle-big'><div class='text'>Esfera Pública</div></div>
+				<p>Es necesario que el espacio digital pueda constituirse como esfera pública con el estatuto de <strong>espacio público</strong>
+			, patrimonio del "nosotros" y también como <em>registro público</em> del debate democrático.</p>
 			</div>
 		</div>
 	</div>
@@ -133,13 +130,13 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title'>Modelos de Democracia Digital</h2>
-	<ul>
+	<h2 class='title'>4 Modelos de Democracia Digital</h2>
+	<ol>
 		<li>Modelo de redes sociales</li>
 		<li>Modelo de medición de opinión pública</li>
 		<li>Modelo plebiscitario directo</li>
 		<li>Modelo inclusivo deliberativo</li>
-	</ul>
+	</ol>
 </div>
 
 {% include division.html %}
@@ -172,18 +169,12 @@ title: "MediaFranca: Una introducción"
 
 {% include division.html %}
 
-<div class='container'>
-<h2 class='title'>Condiciones</h2>
-	<ul>
-		<li>Acceso a información balanceada</li>
-		<li>Agenda abierta</li>
-		<li>Plataforma reglamentada</li>
-		<li>Tiempo adecuado para tratar temas</li>
-		<li>Sin manipulación ni cohersión</li>
-		<li>Participación inclusiva</li>
-		<li>Libertad de asociación e interacción</li>
-		<li>Reconocimiento de la diversidad</li>
-	</ul>
+<div class='bk bk-black'>
+	<div class='container'>
+		<div class='vcenter'>
+			<h2 class="w100 tcenter">¿Cómo avanzamos desde la Universidad?</h2>
+		</div>
+	</div>	
 </div>
 
 {% include division.html %}
@@ -191,9 +182,10 @@ title: "MediaFranca: Una introducción"
 <div class='container'>
 <h2 class='title'>Preguntas Clave</h2>
 	<ul>
-		<li>¿cómo se origina la agenda ciudadana?
+		<li>¿cómo se origina una agenda verdaderamente abierta?
 		<ul>
 			<li>canales y mecanismos de publicación / ascripción</li>
+			<li>definir las reglas de la relevancia pública</li>
 		</ul>
 		</li>
 		<li>¿a quién se abre la participación?
@@ -221,15 +213,6 @@ title: "MediaFranca: Una introducción"
 			</ul>
 		</li>
 	</ul>
-</div>
-
-{% include division.html %}
-<div class='bk bk-black'>
-	<div class='container'>
-		<div class='vcenter'>
-			<h2 class="title tcenter">¿cómo seguimos?</h2>
-		</div>
-	</div>	
 </div>
 
 {% include division.html %}

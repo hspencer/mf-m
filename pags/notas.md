@@ -21,26 +21,50 @@ Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
 ---
 ## Miedos y Mitos de la democracia electrónica (En el contexto de la Universidad)
 * **Sezgo en la representación**
-	* se teme que los participantes no logren representar todas las aristas de la comunidad, pero en el caso de la universidad, tales representantes ya existen y son electos por las mismas agrupaciones
-	* sólo algunos son los que participan ya que no todos pueden aceptar el caracter y el formato de la discusión
+	* Se teme que los participantes no logren representar todas las aristas de la comunidad, pero en el caso de la universidad, tales representantes ya existen y son electos por las mismas agrupaciones
+	* Sólo algunos son los que participan ya que no todos pueden aceptar el caracter y el formato de la discusión
 * **Expectativas demasiado altas**
-	* se teme que los participantes demanden un poder de decisión mayor al concedido. Sin embargo, ya está definido en estatutos anteriores el grado de profundización que puede llegar a tener cada comunidad en la institución, por otra parte, las reglas definidas en la plataforma orientan la participación hacia una democracia representativa y no hacia una directa
+	* Se teme que los participantes demanden un poder de decisión mayor al concedido. Sin embargo, ya está definido en estatutos anteriores el grado de profundización que puede llegar a tener cada comunidad en la institución, por otra parte, las reglas definidas en la plataforma orientan la participación hacia una democracia representativa y no hacia una directa
 	* al ofrecer un nuevo canal de participación, las personas pueden creer que alguien se hará cargo de sus inquitudes de forma directa y transparente, sin considerar la masa que interactúa y que vuelve relevante los aportes en proporción. 
 * **Apatía**
-	* se teme a que la participación será baja ya que el universo de votantes en los jovenes es bajo. Sin embargo, el sufragio no es la única instancia de votación; claro ejemplo es la participación en la movilización estudiantil del 2011 desde diferencias instancias y espacios
+	* Se teme a que la participación será baja ya que el universo de votantes en los jovenes es bajo. Sin embargo, el sufragio no es la única instancia de votación; claro ejemplo es la participación en la movilización estudiantil del 2011 desde diferencias instancias y espacios
 * **Falta de educación cívica**
-	* no saber conducirse dentro de los procedimientos y acuerdos. La universidad tiene el deber de orientar y educar a sus comunidades sobre derechos y deberes en la participación del cuerpo administrativo
+	* No saber conducirse dentro de los procedimientos y acuerdos. La universidad tiene el deber de orientar y educar a sus comunidades sobre derechos y deberes en la participación del cuerpo administrativo
 * **Exclusión digital**
-	* se teme que el acceso a internet y a dipositivos tecnológicos de los cuales depende la plataforma no llegue a todos los grupos involucrados. Sin embargo, las instancias de expresión y dialogo pueden posee canales alternativos ya constituidos, como las asambleas
+	* Se teme que el acceso a internet y a dipositivos tecnológicos de los cuales depende la plataforma no llegue a todos los grupos involucrados. Sin embargo, las instancias de expresión y dialogo pueden posee canales alternativos ya constituidos, como las asambleas
 * **Problemas de escala**
-	* se teme una falta de control sobre los participantes y los tiempos dedicados a discutir y deliberar. Pero dentro de la Universidad el número de participantes es acotado y las reglas del servicio deben ser claras para llevar a cabo los foros en tiempos finitos y con objetivos precisos
+	* Se teme una falta de control sobre los participantes y los tiempos dedicados a discutir y deliberar. Pero dentro de la Universidad el número de participantes es acotado y las reglas del servicio deben ser claras para llevar a cabo los foros en tiempos finitos y con objetivos precisos
 
 ---
 ## Componentes Básicos
 
+* **Información**
+	* Acceso a información balanceada
+		* Información accesible desde distintos soportes y expresada en términos comprensibles para todos los grupos. Un discurso humanizado
+	* Agenda abierta
+	* La palestra debe construirse por las inquietudes de la comunidad y las urgencias del contexto. El debate sobre las decisiones
+* **Reglas del Juego**
+	* Reglas conocidas y transparentes (sin oscuros algoritmos de relevancia u otros), además de fácilmente verificables
+	* Las reglas mismas deben estar sometidas a revisión
+	* Tiempo adecuado para tratar temas (definir plazos)
+		* Las discusiones infinitas deben controlarse y dirigirse hacia instancias deliberativas donde existen responsables
+	* Libre de manipulación ni cohersión
+* **Plataforma**
+	* Participación inclusiva
+		* Todos los integrantes deben tener el espacio y las herramientas para ser partícipes de todas las instancias democráticas. No existen privilegios previos pero sí se deben seleccionar a los representantes de cada grupo social
+	* Libertad de asociación e interacción
+		* Permitir el dialogo entre ciudadano-gobierno y ciudadano-ciudadano
+	* Reconocimiento de la diversidad
+		* No coartar las diferencias entre los actores, pero sí rechazar los perjuicios
+
 ---
 ## Condición Escencial: El espacio público
-
+* El reconocimiento y la validación de la plataforma por todos los actores
+* Con las garantías mínimas de asociadas bien público
+	* continuidad del servicio en el tiempo
+	* validez del debate como registro público
+	* reconocimiento de los acuerdos alcanzados, de acuerdo a los compromisos asumidos con anterioridad (vinculantes o no).
+* En este sentido, cabe mencionar la gran diferencia entre un emprendimiento civil y una plataforma validada. Nosotros proponemos esto último. Una plataforma que integre lo _top-down_ con lo _bottom-up_.
 ---
 ## Espacio Individual
 * **Yo - Experiencia intelectual**
@@ -82,58 +106,27 @@ el modelo democrático completo, sin hablar de mediafranca aún
 * Los grupos sociales son actores políticos activos y se involucran en todas las instancias democrácticas, la agenda pública se define a partir de la expresion ciudadana. Se piensan todos los espacios de participación democrática desde la ciudadanía
 * **Ejemplos cercanos:** 
 ** DemocracyOS es una plataforma para el dialogo y la deliberación de una agenda ciudadana, acotada por ciudad
-** Fundación ciudadano inteligente (Hay acuerdo, Congreso abierto), ha desarrollado plataformas de seguimiento a la actividad gubernamental, pero no es un canal oficial y recoge por cuenta propia la voz ciudadana y el hacer del estado 
-
----
-## Condiciones
-* **Acceso a información balanceada**
-	* Información accesible desde distintos soportes y expresada en términos comprensibles para todos los grupos. Un discurso humanizado
-* **Agenda abierta**
-	* La palestra debe construirse por las inquietudes de la comunidad y las urgencias del contexto. El debate sobre las decisiones
-* **Plataforma reglamentada**
-	* Perseguir la sensación de seguridad a través de reglas que supriman contenidos que no contribuyan al debate ciudadano
-* **Tiempo adecuado para tratar temas (definir plazos)**
-	* Las discusiones infinitas deben controlarse y dirigirse hacia instancias deliberativas donde existen responsables
-* **Sin manipulación ni cohersión**
-	* Las normas que definen las herramientas dispuestas deben ser transparentes y abiertas a discusión
-* **Participación inclusiva**
-	* Todos los integrantes deben tener el espacio y las herramientas para ser partícipes de todas las instancias democráticas. No existen privilegios previos pero sí se deben seleccionar a los representantes de cada grupo social
-* **Libertad de asociación e interacción**
-	* Permitir el dialogo entre ciudadano-gobierno y ciudadano-ciudadano
-* **Reconocimiento de la diversidad**
-	* No coartar las diferencias entre los actores, pero sí rechazar los perjuicios
+** Fundación ciudadano inteligente (Hay acuerdo, Congreso abierto), Emprendimiento civil que ha desarrollado plataformas de seguimiento a la actividad gubernamental, pero no es un canal oficial y recoge por cuenta propia la voz ciudadana y el hacer del Estado 
 
 ---
 ## Preguntas Clave
 
 ---
-## Proyectos Similares
+## ¿Cómo avanza la Universidad?
+* qué partes son las prioritarias
+* definir un horizonte a futuro
+	* que la universidad sirva de modelo
+	* incorpore en el ADN
+* la misión de la universidad es construir un modelo (testimonio a la ciudadanía)
 
+---
+## Proyectos Similares
+* Existen muchas experiencias, en su mayoría emprendimientos civiles. Algunos emprendimientos privados como apoyo a empresas y organizaciones
+* Hay casos donde el Estado asume un rol protagónico
+* Hay muchos recursos a disposición, no es necesario comenzar desde cero. Hay tecnología de código abierto que se puede tomar y adaptar. Especialmente notable en este sentido es DemocracyOS.
 ---
 <div class="tcenter">
 	<div class="well">fin</div>	
 </div>
 
-Estas notas hay que ordenarlas y redistribuirlas
-
-* publicación
-* conversación
-* deliberación
-* gestión
-
-## en modelo completo, en detalle
-
-## hablamos del proyecto:
-* investigación
-* escenarios y personas
-* interfaz
-* aplicaciones
-
-## cómo comenzar en la universidad
-* qué partes son las prioritarias
-* definir un horizonte a futuro
-	* que la universidad sirva de modelo
-	* incorpore en el ADN
-
-----
 referencia de sintaxis: [markdown](http://daringfireball.net/projects/markdown/syntax)
