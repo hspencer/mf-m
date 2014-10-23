@@ -135,9 +135,9 @@ title: "MediaFranca: Una introducción"
 <div class='container'>
 	<h2 class='title'>Modelos de Democracia Digital</h2>
 	<ul>
-		<li>Modelo plebiscitario directo</li>
 		<li>Modelo de redes sociales</li>
 		<li>Modelo de medición de opinión pública</li>
+		<li>Modelo plebiscitario directo</li>
 		<li>Modelo inclusivo deliberativo</li>
 	</ul>
 </div>
@@ -145,21 +145,21 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Modelo plebiscitario directo</h2>
+	<h2 class='title tcenter'>Modelo de redes sociales</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Modelo de redes sociales</h2>
+	<h2 class='title tcenter'>Modelo de medición de opinión pública</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Modelo de medición de opinión pública</h2>
+	<h2 class='title tcenter'>Modelo plebiscitario directo</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
 </div>
 

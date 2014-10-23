@@ -63,24 +63,26 @@ se distinguen cuatro instancias en la democracia
 el modelo democrático completo, sin hablar de mediafranca aún
 
 ---
-### Modelo plebiscitario directo
-* _Escribir definición_
-* **Ejemplo:** Constitución Islandesa del 2009. Posterior a la crisis financiera
-
----
 ### Modelo de redes sociales
-* _Escribir definición_
-* **Ejemplo:**
+* Comunidades análogas y online que convocan de acuerdo a una temática en común y logran construir un dialogo a partir de la voz de los participantes. _
+* **Ejemplo:** En línea: Facebook, Twitter, 
 
 ---
 ### Modelo de medición de opinión pública
-* Se observa el comportamiento de los grupos involucrados y, usualmente a través de encuestas y sondeos, se reafirman concepciones
-* **Ejemplo:** 
+* Se observa el comportamiento de los grupos involucrados y, usualmente a través de encuestas y sondeos, se reafirman concepciones. La formulación de la consulta suele estar cargada de ideologías políticas. 
+* **Ejemplo:** La diputada Andrea Molina esta realizando encuesta en el distrito 10 pero muchas preguntas están formuladas con prejuicios
+
+---
+### Modelo plebiscitario directo
+* Las agenda pública se define dentro de la institucionalidad y la ciudadanía solo es parte de una etapa deliberativa que aprueba o desaprueba lo propuesto. En este modelo se pone en duda la presencia de la voz ciudadana, ya que las entidades que transmiten las necesidades de este cuerpo son invisibles y no electas sobre el modelo *bottom-up**
+* **Ejemplo:** El quinto poder, Constitución Islandesa del 2009. Posterior a la crisis financiera
 
 ---
 ### Modelo inclusivo deliberativo
 * Los grupos sociales son actores políticos activos y se involucran en todas las instancias democrácticas, la agenda pública se define a partir de la expresion ciudadana. Se piensan todos los espacios de participación democrática desde la ciudadanía
-* **Ejemplo:**
+* **Ejemplos cercanos:** 
+** DemocracyOS es una plataforma para el dialogo y la deliberación de una agenda ciudadana, acotada por ciudad
+** Fundación ciudadano inteligente (Hay acuerdo, Congreso abierto), ha desarrollado plataformas de seguimiento a la actividad gubernamental, pero no es un canal oficial y recoge por cuenta propia la voz ciudadana y el hacer del estado 
 
 ---
 ## Condiciones
