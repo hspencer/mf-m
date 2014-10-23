@@ -8,7 +8,7 @@ active: proyecto
 	{% include nav-pages.html %}
 </div>
 
-<p class='air-top'>Este proyecto surge de la investigación en la línea "diseño para la democracia" realizada en la e[ad] Escuela de Arquitectura y Diseño de la Pontificia Universidad Católica de Valparaíso a partir del año 2010. Vea la documentación completa en <a href='http://wiki.ead.pucv.cl/index.php/MediaFranca' title='documentación en Wiki Casiopea de la e[ad]'>Casiopea</a>.</p>
+<p class='air-top'>Este proyecto surge de la investigación en la línea "diseño para la democracia" realizada en la e[ad] Escuela de Arquitectura y Diseño de la Pontificia Universidad Católica de Valparaíso a partir del año 2010. Vea la documentación completa en <a href='http://wiki.ead.pucv.cl/index.php/MediaFranca' title='documentación en Wiki Casiopea de la e[ad]'><i class='fa fa-file'></i> Casiopea</a> o la <a href="http://wiki.ead.pucv.cl/images/4/49/Mediafranca-web.pdf"><i class='fa fa-book'></i> edición electrónica</a>.</p>
 
 <h2>Principios</h2>
 <h3>Experiencia democrática</h3>
