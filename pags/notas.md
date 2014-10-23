@@ -5,8 +5,8 @@ active: notas
 ---
 # Notas de la Presentación
 Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
-[Comisión Participación y Democracia](http://comisionparticipacionydemocracia.ucv.cl/)<br>
-[<i class='fa fa-arrow-left'></i> atras]( {{ site.baseurl }}/ )
+### [Comisión Participación y Democracia](http://comisionparticipacionydemocracia.ucv.cl/)<br>
+<a href="{{ site.baseurl }}/" class='btn btn-default air-top'><i class='fa fa-arrow-left'></i> atras</a>
 
 ---
 ## ¿Por qué?
