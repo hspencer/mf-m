@@ -82,9 +82,28 @@ Jueves 23 de Octubre de 2014, Salón Emilio Tagle. Av. Brasil 2950<br>
 * **El ciclo es infinito y de tiempos relativos**
 
 ---
-## Modelos de Democracia Digital 
-se distinguen cuatro instancias en la democracia
-el modelo democrático completo, sin hablar de mediafranca aún
+## Acciones democráticas
+* Publicar
+	* Voz individual en _distintos formatos_ (importante porque no todos tienen una misma manera de decir)
+* Conversar
+	* Dialogo colaborativo para nuevos argumentos
+* Deliberar
+	* Determinaciones a partir de un protocolo (instancia más sensible, que filtra por grado de compromiso, desde aquí se fijan las responsabilidades)
+* Gestionar
+	* Administración y seguimiento de tareas
+* Estas acciones no poseen tiempos definidos, por tanto es un ciclo infinito
+* Cada acción involucra actores distintos y con distintos niveles de compromiso
+	* Vinculado con el miedo a la apatía
+
+---
+## Experiencias democráticas
+* Pese a que la democracia es un sistema compuesto por todos, tenemos que separar ambas experiencias
+* Debe visualizarse el rol ciudadano, el mérito, el reconocimiento
+* En el centro existe la herramienta
+
+---
+## 4 Modelos de Democracia Digital 
+* A partir del modelamiento de ambos espacios que hemos construido, detectamos cuatro acciones en las que se puede desglosar la democracia
 
 ---
 ### Modelo de redes sociales
