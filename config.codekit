@@ -85,6 +85,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_gh-pages\/images\/bio-hspencer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37048,
+		"inputAbbreviatedPath": "\/_gh-pages\/images\/bio-hspencer.jpg",
+		"outputAbbreviatedPath": "\/_gh-pages\/images\/bio-hspencer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_gh-pages\/images\/bio-moya.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34103,
+		"inputAbbreviatedPath": "\/_gh-pages\/images\/bio-moya.jpg",
+		"outputAbbreviatedPath": "\/_gh-pages\/images\/bio-moya.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_gh-pages\/images\/bio-nn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89098,
+		"inputAbbreviatedPath": "\/_gh-pages\/images\/bio-nn.jpg",
+		"outputAbbreviatedPath": "\/_gh-pages\/images\/bio-nn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_gh-pages\/images\/bio-pancho.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9087,
+		"inputAbbreviatedPath": "\/_gh-pages\/images\/bio-pancho.jpg",
+		"outputAbbreviatedPath": "\/_gh-pages\/images\/bio-pancho.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_gh-pages\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -158,11 +202,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_gh-pages\/pags\/notas.html": {
+	"\/_gh-pages\/pags\/gracias\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_gh-pages\/pags\/notas.html",
+		"inputAbbreviatedPath": "\/_gh-pages\/pags\/gracias\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3023,6 +3067,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/bio-hspencer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37048,
+		"inputAbbreviatedPath": "\/images\/bio-hspencer.jpg",
+		"outputAbbreviatedPath": "\/images\/bio-hspencer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bio-moya.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34103,
+		"inputAbbreviatedPath": "\/images\/bio-moya.jpg",
+		"outputAbbreviatedPath": "\/images\/bio-moya.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bio-nn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89098,
+		"inputAbbreviatedPath": "\/images\/bio-nn.jpg",
+		"outputAbbreviatedPath": "\/images\/bio-nn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bio-pancho.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9087,
+		"inputAbbreviatedPath": "\/images\/bio-pancho.jpg",
+		"outputAbbreviatedPath": "\/images\/bio-pancho.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -3242,6 +3330,18 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/pags\/gracias.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pags\/gracias.md",
+		"outputAbbreviatedPath": "\/pags\/gracias.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/pags\/notas.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -3281,15 +3381,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pags\/presentacion.md",
 		"outputAbbreviatedPath": "\/pags\/presentacion.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/pags\/proyecto.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pags\/proyecto.html",
-		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},

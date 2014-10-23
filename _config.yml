@@ -5,7 +5,7 @@ destination: _gh-pages
 lsi: false
 markdown: rdiscount
 baseurl: http://mediafranca.github.io/fundamentos
-author: Herbert Spencer
+author: ['Herbert Spencer', 'Francisco Vera']
 pygments: true
 permalink: pretty
 exclude: ['node_modules', 'bower_components', 'less']

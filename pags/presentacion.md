@@ -39,14 +39,39 @@ title: "MediaFranca: Una introducción"
 
 <div class='container'>
 	<!-- la motivaciones -->
-	<h2 class='title'>Miedos y Mitos de la democracia electrónica</h2>
+<h2 class='title'>Miedos y Mitos de la democracia electrónica</h2>
 	<ul>
-		<li>Sezgo en la representación</li>
-		<li>Expectativas demasiado altas</li>
-		<li>Apatía</li>
+		<li>Sezgo en la representación
+			<ul>
+				<li>El perfil de los participantes de las plataformas digitales puede ser sezgado</li>
+				<li>Plataforma no inclusiva o universal por problemas de diseño o lenguaje (usabilidad)</li>
+			</ul>
+		</li>
+		<li>Expectativas demasiado altas
+			<ul>
+				<li>Desilusión al ver que la voz individual queda sumergida en la irrelevancia de la masa participante y que la participación democrática en un ámbito distribuído requiere del trabajo de los involucrados. La democracia digital no tiene que ver con automatización de los procesos.</li>
+			</ul>
+		</li>
+		<li>Apatía
+			<ul>
+				<li>No seguir el desarrollo de los temas en el tiempo</li>
+				<li>Pérdida de interés en el canal mismo como medio de participación</li>
+			</ul>
+		</li>
 		<li>Falta de educación cívica</li>
-		<li>Exclusión digital</li>
-		<li>Problemas de escala</li>
+		<li>Exclusión digital
+			<ul>
+				<li>No todos poseen las competencias requeridas</li>
+				<li>No todos tienen acceso a la tecnología</li>
+			</ul>
+		</li>
+		<li>Problemas de escala
+			<ul>
+				<li>Elección de tecnologías apropiadas</li>
+				<li>Asincronisidad extrema en el proceso deliberativo</li>
+				<li>Construcción de <em>esferas individuales de relevancia</em></li>
+			</ul>
+		</li>
 	</ul>
 </div>
 
@@ -110,9 +135,9 @@ title: "MediaFranca: Una introducción"
 <div class='container'>
 	<h2 class='title'>Modelos de Democracia Digital</h2>
 	<ul>
-		<li>Modelo plebiscitario directo</li>
 		<li>Modelo de redes sociales</li>
 		<li>Modelo de medición de opinión pública</li>
+		<li>Modelo plebiscitario directo</li>
 		<li>Modelo inclusivo deliberativo</li>
 	</ul>
 </div>
@@ -120,21 +145,21 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Modelo plebiscitario directo</h2>
+	<h2 class='title tcenter'>Modelo de redes sociales</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m1.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Modelo de redes sociales</h2>
+	<h2 class='title tcenter'>Modelo de medición de opinión pública</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m2.svg">
 </div>
 
 {% include division.html %}
 
 <div class='container'>
-	<h2 class='title tcenter'>Modelo de medición de opinión pública</h2>
+	<h2 class='title tcenter'>Modelo plebiscitario directo</h2>
 	<img class='illustration' src="{{ site.baseurl }}/images/modelo-democracia-m3.svg">
 </div>
 
@@ -150,13 +175,14 @@ title: "MediaFranca: Una introducción"
 <div class='container'>
 <h2 class='title'>Condiciones</h2>
 	<ul>
-		<li>acceso a información balanceada</li>
-		<li>agenda abierta</li>
-		<li>tiempo adecuado para tratar temas (definir plazos)</li>
-		<li>sin manipulación ni cohersión</li>
-		<li>participación inclusiva</li>
-		<li>libertad de asociación e interacción</li>
-		<li>reconocimiento de la diversidad</li>
+		<li>Acceso a información balanceada</li>
+		<li>Agenda abierta</li>
+		<li>Plataforma reglamentada</li>
+		<li>Tiempo adecuado para tratar temas</li>
+		<li>Sin manipulación ni cohersión</li>
+		<li>Participación inclusiva</li>
+		<li>Libertad de asociación e interacción</li>
+		<li>Reconocimiento de la diversidad</li>
 	</ul>
 </div>
 
@@ -195,6 +221,15 @@ title: "MediaFranca: Una introducción"
 			</ul>
 		</li>
 	</ul>
+</div>
+
+{% include division.html %}
+<div class='bk bk-black'>
+	<div class='container'>
+		<div class='vcenter'>
+			<h2 class="title tcenter">¿cómo seguimos?</h2>
+		</div>
+	</div>	
 </div>
 
 {% include division.html %}
