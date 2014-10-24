@@ -130,6 +130,41 @@ title: "MediaFranca: Una introducción"
 {% include division.html %}
 
 <div class='container'>
+	<h2 class='title'>Acciones democráticas</h2>
+	<ul>
+		<li>Publicar
+			<ul>
+				<li>Voz individual en distintos formatos</li>
+			</ul>
+		</li>
+		<li>Conversar
+			<ul>
+				<li>Dialogo colaborativo para nuevos argumentos</li>
+			</ul>
+		</li>
+		<li>Deliberar
+			<ul>
+				<li>Determinaciones a partir de un protocolo</li>
+			</ul>
+		</li>
+		<li>Gestionar
+			<ul>
+				<li>Administración y seguimiento de tareas</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+{% include division.html %}
+
+<div class='container'>
+	<h2 class='title tcenter'>Experiencias democráticas</h2>
+	<img class='illustration' src="{{ site.baseurl }}/images/modelo-experiencias-juntas.svg">
+</div>
+
+{% include division.html %}
+
+<div class='container'>
 	<h2 class='title'>4 Modelos de Democracia Digital</h2>
 	<ol>
 		<li>Modelo de redes sociales</li>

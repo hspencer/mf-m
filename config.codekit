@@ -3342,15 +3342,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/pags\/notas.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pags\/notas.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/pags\/notas.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -3360,15 +3351,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pags\/notas.md",
 		"outputAbbreviatedPath": "\/pags\/notas.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/pags\/presentacion.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pags\/presentacion.html",
-		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
