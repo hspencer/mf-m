@@ -6,7 +6,7 @@ lsi: false
 markdown: rdiscount
 baseurl: http://mediafranca.github.io/fundamentos
 author: ['Herbert Spencer', 'Francisco Vera']
-pygments: true
+highlighter: true
 permalink: pretty
 exclude: ['node_modules', 'bower_components', 'less']
 
